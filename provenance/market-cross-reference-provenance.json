@@ -1,0 +1,106 @@
+{
+  "tool": "cross_reference_markets.py v1",
+  "python": "3.12.10",
+  "command": "analysis/biu/.runtime/python/python.exe analysis/tcu/repo-review/cross_reference_markets.py",
+  "database_snapshot_sha256": "3899ecc04acc93813bd98ea2f8afc19c944ccbd72018cf7e27be71d1d2c2c751",
+  "database_sources": [
+    {
+      "path": "D:\\Documents\\Car\\2022.01\\SSM4\\PAKandDB\\Pack File Database_EC_AU_GE.csv",
+      "sha256": "89a07d7ef33fd3eb8301db74e1cf2d889fb4ff8a4fc8a7a0fa2b78ddc619e550",
+      "encoding": "utf-16",
+      "rows": 3898,
+      "units": {
+        "TCM": 737,
+        "ECM": 2605,
+        "EPB": 10,
+        "Auto Start Stop System": 70,
+        "EyeSight": 107,
+        "HCU": 204,
+        "Keyless Entry CM": 43,
+        "DMS": 6,
+        "BIU": 112,
+        "EPS": 4
+      }
+    },
+    {
+      "path": "D:\\Documents\\Car\\2022.01\\SSM4\\PAKandDB\\Pack File Database_EC_AU_GF.csv",
+      "sha256": "0205e2c31599cf32bb7e1375ca7f26b9ebc4a66714c42a97573155e8bfe03987",
+      "encoding": "utf-16",
+      "rows": 3898,
+      "units": {
+        "TCM": 737,
+        "ECM": 2605,
+        "EPB": 10,
+        "Auto Start Stop System": 70,
+        "EyeSight": 107,
+        "HCU": 204,
+        "Keyless Entry CM": 43,
+        "DMS": 6,
+        "BIU": 112,
+        "EPS": 4
+      }
+    },
+    {
+      "path": "D:\\Documents\\Car\\2022.01\\SSM4\\PAKandDB\\Pack File Database_EC_AU_GG.csv",
+      "sha256": "7853a2beaf424d911dbc4a1219b37ddfdc65f10c4c0d75c94f6b90aca35d6c95",
+      "encoding": "utf-16",
+      "rows": 3898,
+      "units": {
+        "TCM": 737,
+        "ECM": 2605,
+        "EPB": 10,
+        "Auto Start Stop System": 70,
+        "EyeSight": 107,
+        "HCU": 204,
+        "Keyless Entry CM": 43,
+        "DMS": 6,
+        "BIU": 112,
+        "EPS": 4
+      }
+    },
+    {
+      "path": "D:\\Documents\\Car\\2022.01\\SSM4\\PAKandDB\\Pack File Database_EC_AU_GI.csv",
+      "sha256": "4ed32f3ce7ceab55b59847712c29f82df4df3f0aec9a45e5cbe47dab20ef0333",
+      "encoding": "utf-16",
+      "rows": 3898,
+      "units": {
+        "TCM": 737,
+        "ECM": 2605,
+        "EPB": 10,
+        "Auto Start Stop System": 70,
+        "EyeSight": 107,
+        "HCU": 204,
+        "Keyless Entry CM": 43,
+        "DMS": 6,
+        "BIU": 112,
+        "EPS": 4
+      }
+    },
+    {
+      "path": "D:\\Documents\\Car\\2022.01\\SSM4\\PAKandDB\\Pack File Database_N_AMERICA.csv",
+      "sha256": "8c2feccfd8f040d708c0a4e96bc0adedb11f73ed167a8813c643896a5dcdaa5c",
+      "encoding": "utf-16",
+      "rows": 2546,
+      "units": {
+        "ECM": 1819,
+        "TCM": 280,
+        "BIU": 65,
+        "CAMERA": 121,
+        "RCR": 10,
+        "DMCM": 10,
+        "EPB": 5,
+        "DCM": 96,
+        "VDC": 106,
+        "HPCM": 4,
+        "BECU": 5,
+        "DMS": 25
+      }
+    }
+  ],
+  "join_order": [
+    "Pack_Number + NewPartsNo",
+    "Pack_Number + TargetPartsNo",
+    "Pack_Number only"
+  ],
+  "limitations": "Country Spec establishes database applicability, not an exclusive per-character market code. Package-only rows can apply to multiple members. Database checksums are not firmware checksum validation. Historical database paths are retained as provenance."
+}

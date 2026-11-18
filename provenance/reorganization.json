@@ -1,0 +1,20 @@
+{
+  "base_commit": "249879c8001ace6a63a989a6d7b844e90da0a814",
+  "original_binary_paths": 18,
+  "original_unique_binary_contents": 17,
+  "catalog_source_rows": 309,
+  "unique_binary_contents": 289,
+  "added_unique_contents": 272,
+  "total_binary_bytes": 299144704,
+  "folder_families": {
+    "4EAT": 25,
+    "5EAT": 61,
+    "6AT": 1,
+    "CVT": 168,
+    "Review": 18,
+    "Unclassified": 16
+  },
+  "backup_verified": true,
+  "all_catalog_hashes_verified": true,
+  "transmission_refined_from_database": 38
+}

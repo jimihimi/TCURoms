@@ -1,0 +1,58 @@
+Online TCU provenance review — 2026-11-17
+
+Scope: targeted searches for Subaru TCU/CVT ROM IDs, donor-market statements,
+and characters E/B/8/C/5/6/7; RomRaider t13725 archived posts and online
+community documentation. This is a metadata review, not binary validation.
+Live RomRaider requests failed through the web tool. Forum evidence below was
+read from the existing Docs/romraider-t13725/posts.json archive; original post
+URLs are retained. Search absence is not evidence that a ROM does not exist.
+
+Reported diagnostic IDs / shared-file provenance
+E: ADE0236000, Waselon, post 172930 (quoted original statement) and 172939.
+   Reports AD E0 23 60 00 and Hitachi K-Line. No donor market established.
+   A reply comparing it with a JDM ROM does not establish that this donor is JDM.
+   https://www.romraider.com/forum/viewtopic.php?p=172930#p172930
+E: B1E5F08200, SergArb, post 172108. Diagnostic reply contains the five bytes
+   B1 E5 F0 82 00; textual identifier agrees. Donor market unspecified.
+   Attachment is named Z5D3F080_B1D3F08000-20240218-141156.zip, a different ID.
+   Do not assign the E diagnostic log's origin to that D-named attachment.
+   https://www.romraider.com/forum/viewtopic.php?p=172108#p172108
+A: B1AE207100, zero knowledge, post 170833. States 2010 EDM LGT and attaches
+   2010_LGT_EDM_EZAE2WB1_B1AE207100.7z.
+   https://www.romraider.com/forum/viewtopic.php?p=170833#p170833
+D: ABD1A03100, roadie, post 127764. States another JDM ROM read with ecuMem;
+   filename identifies 2005 JDM LGT. This is a donor report, not checksum proof.
+   https://www.romraider.com/forum/viewtopic.php?p=127764#p127764
+D: ACD1A06000, roadie, post 129913. States JDM LGT 2007 and supplies matching file.
+   https://www.romraider.com/forum/viewtopic.php?p=129913#p129913
+F: 91FE216300, ciper, post 176622. States early 2005 USDM Outback XT and attaches
+   91FE216300_2026-03-21_18h17m30s.bin; poster asks whether dump is correct.
+   https://www.romraider.com/forum/viewtopic.php?p=176622#p176622
+
+Additional primary community sources read online
+https://github.com/TomFLV/5eat-tcu-reverse-engineering/blob/main/docs/ROM-DETAILS.md
+The author reports that AC91207000_... actually embeds ACD1207000. Thus a
+filename character 9 can be a naming error rather than a real ROM-ID character.
+This remains the author's binary finding; no downloaded binary was revalidated
+in this pass. This project also uses images from jimihimi/TCURoms, so those
+entries are not automatically independent confirmation of that repo's labels.
+
+https://github.com/martinl/openpilot/wiki/Subaru-Fingerprinting-v2
+An example block labelled 2018 Crosstrek EDM / 2018 Impreza ADM lists transmission
+versions E3E5463100 and E4E5063100 (converted here from the five raw bytes).
+Both have third character E. The block's ordering suggests respective mapping,
+but combined comments are insufficient to assert that individual pairing.
+This supports E among reported EDM/ADM cars; these are diagnostic fingerprints,
+not downloadable complete ROM images or independent checksum validation.
+
+Results for requested characters
+E: independent community-reported diagnostic examples found; EDM/ADM support
+   from the fingerprint source, with the qualification above.
+B,8,C,5,6,7: no independently attributable 10-hex-character donor ROM plus
+   market identified by this targeted search. Local package-database findings
+   remain the current evidence for these characters. Older six-character
+   SSM identifiers and engine ECU calibration IDs were not mixed into this set.
+
+Conclusion: keep filename, embedded ID, diagnostic ID, poster's donor description,
+and package database applicability as separate fields. No universal third-character
+market specification was established. No GitHub updates or source ROM edits made.
