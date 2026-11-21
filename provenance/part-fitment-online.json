@@ -1,0 +1,4645 @@
+{
+  "date": "2026-11-21",
+  "method": "Exact-part searches on seller catalog domains. Structured fitments extracted only from product URLs containing the exact queried part. Hardware fitment is not firmware applicability. Model tokens validated against Subaru model names; headings mistaken for table rows are rejected. Explicit model/year claims in seller product titles are separately tagged; no firmware compatibility is inferred.",
+  "evidence": [
+    {
+      "part_number": "30919AA070",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919aa070.html",
+      "title": "30919AA070 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010",
+          "model": "Legacy"
+        },
+        {
+          "years": "2010",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AA074",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919aa074.html",
+      "title": "30919AA074 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010-2013",
+          "model": "Legacy"
+        },
+        {
+          "years": "2010-2013",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AA080",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919aa080.html",
+      "title": "30919AA080 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010",
+          "model": "Legacy"
+        },
+        {
+          "years": "2010",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AA084",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919aa084.html",
+      "title": "30919AA084 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010-2013",
+          "model": "Legacy"
+        },
+        {
+          "years": "2010-2013",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AA735",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919aa735.html",
+      "title": "30919AA735 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2008-2009",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AA735",
+      "url": "https://www.subaruparts.com/oem-parts/subaru-automatic-transmission-control-module-30919aa735",
+      "title": "2008-2009 Subaru Tribeca Automatic Transmission Control Module 30919AA735 | Subaru Parts Store",
+      "fitments": [
+        {
+          "years": "2008-2009",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2008-2009",
+          "model": "Tribeca Automatic Transmission Control Module 30919AA735"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AA735",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919aa735",
+      "title": "2008-2009 Subaru Tribeca Automatic Transmission Control Module 30919AA735 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2008-2009",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2008-2009",
+          "model": "Tribeca Automatic Transmission Control Module 30919AA735"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AB013",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab013.html",
+      "title": "30919AB013 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [],
+      "kind": "exact_part_product_discovery",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB014",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab014.html",
+      "title": "30919AB014 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010",
+          "model": "Legacy"
+        },
+        {
+          "years": "2010",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB024",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ab024",
+      "title": "2010 Subaru Outback Automatic Transmission Control Module 30919AB024 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2010",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2010",
+          "model": "Outback Automatic Transmission Control Module 30919AB024"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AB190",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab190.html",
+      "title": "30919AB190 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB193",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab193.html",
+      "title": "30919AB193 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2010-2013",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB430",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab430.html",
+      "title": "30919AB430 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2011",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB431",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab431.html",
+      "title": "30919AB431 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2011-2013",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB683",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab683.html",
+      "title": "30919AB683 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2011",
+          "model": "Legacy"
+        },
+        {
+          "years": "2011",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB683",
+      "url": "https://www.subaruparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ab683",
+      "title": "2011 Subaru Outback Automatic Transmission Control Module 30919AB683 | Subaru Parts Store",
+      "fitments": [
+        {
+          "years": "2011",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2011",
+          "model": "Outback Automatic Transmission Control Module 30919AB683"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AB683",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ab683",
+      "title": "2011 Subaru Outback Automatic Transmission Control Module 30919AB683 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2011",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2011",
+          "model": "Outback Automatic Transmission Control Module 30919AB683"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AB890",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab890.html",
+      "title": "30919AB890 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2011",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AB891",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ab891.html",
+      "title": "30919AB891 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2011-2013",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AC090",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ac090.html",
+      "title": "30919AC090 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AC092",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ac092.html",
+      "title": "30919AC092 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AC092",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ac092",
+      "title": "2012 Subaru Impreza Automatic Transmission Control Module 30919AC092 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2012",
+          "model": "Impreza Automatic Transmission Control Module 30919AC092"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AC321",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ac321.html",
+      "title": "30919AC321 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Legacy"
+        },
+        {
+          "years": "2012",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AC330",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ac330.html",
+      "title": "30919AC330 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Legacy"
+        },
+        {
+          "years": "2012",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AC331",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ac331.html",
+      "title": "30919AC331 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2012",
+          "model": "Legacy"
+        },
+        {
+          "years": "2012",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD320",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad320.html",
+      "title": "30919AD320 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD323",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad323.html",
+      "title": "30919AD323 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD720",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad720.html",
+      "title": "30919AD720 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD721",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad721.html",
+      "title": "30919AD721 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD721",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ad721",
+      "title": "2015 Subaru Legacy Automatic Transmission Control Module 30919AD721 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2015",
+          "model": "Legacy Automatic Transmission Control Module 30919AD721"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AD730",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad730.html",
+      "title": "30919AD730 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD731",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad731.html",
+      "title": "30919AD731 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Legacy"
+        },
+        {
+          "years": "2015",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD950",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad950.html",
+      "title": "30919AD950 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AD951",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ad951.html",
+      "title": "30919AD951 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE060",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae060.html",
+      "title": "30919AE060 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE061",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae061.html",
+      "title": "30919AE061 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE120",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae120.html",
+      "title": "30919AE120 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "XV Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE122",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae122.html",
+      "title": "30919AE122 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "XV Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE122",
+      "url": "https://www.subaruparts.com/oem-parts/subaru-automatic-transmission-control-module-30919ae122",
+      "title": "2015 Subaru XV Crosstrek Automatic Transmission Control Module 30919AE122 | Subaru Parts Store",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "XV Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2015",
+          "model": "XV Crosstrek Automatic Transmission Control Module 30919AE122"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AE371",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae371.html",
+      "title": "30919AE371 Genuine Subaru Automatic Transmission Control Module \ufffd",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE380",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae380.html",
+      "title": "30919AE380 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE381",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae381.html",
+      "title": "30919AE381 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE391",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae391.html",
+      "title": "30919AE391 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2015",
+          "model": "XV Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE640",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae640.html",
+      "title": "30919AE640 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE642",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae642.html",
+      "title": "30919AE642 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE720",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae720.html",
+      "title": "30919AE720 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE721",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae721.html",
+      "title": "30919AE721 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE730",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae730.html",
+      "title": "30919AE730 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE731",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae731.html",
+      "title": "30919AE731 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE870",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae870.html",
+      "title": "30919AE870 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AE871",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ae871.html",
+      "title": "30919AE871 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF030",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af030.html",
+      "title": "30919AF030 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Legacy"
+        },
+        {
+          "years": "2016",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF032",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af032",
+      "title": "2016 Subaru Legacy Automatic Transmission Control Module 30919AF032 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Legacy"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2016",
+          "model": "Legacy Automatic Transmission Control Module 30919AF032"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF032",
+      "url": "https://www.subaruparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af032",
+      "title": "2016 Subaru Legacy Automatic Transmission Control Module 30919AF032 | Subaru Parts Store",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Legacy"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2016",
+          "model": "Legacy Automatic Transmission Control Module 30919AF032"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF040",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af040.html",
+      "title": "30919AF040 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "Legacy"
+        },
+        {
+          "years": "2016",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF12A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af12a.html",
+      "title": "30919AF12A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF12B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af12b.html",
+      "title": "30919AF12B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF130",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af130.html",
+      "title": "30919AF130 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF132",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af132",
+      "title": "2018 Subaru Crosstrek Automatic Transmission Control Module 30919AF132 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Crosstrek"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2018",
+          "model": "Crosstrek Automatic Transmission Control Module 30919AF132"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF20A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af20a.html",
+      "title": "30919AF20A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF20B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af20b.html",
+      "title": "30919AF20B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF46B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af46b.html",
+      "title": "30919AF46B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Legacy"
+        },
+        {
+          "years": "2017",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF46B",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af46b",
+      "title": "2017 Subaru Legacy Automatic Transmission Control Module 30919AF46B | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Legacy"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2017",
+          "model": "Legacy Automatic Transmission Control Module 30919AF46B"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF53A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af53a.html",
+      "title": "30919AF53A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Legacy"
+        },
+        {
+          "years": "2017",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF53B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af53b.html",
+      "title": "30919AF53B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Legacy"
+        },
+        {
+          "years": "2017",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF53B",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af53b",
+      "title": "2017 Subaru Outback Automatic Transmission Control Module 30919AF53B | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2017",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2017",
+          "model": "Outback Automatic Transmission Control Module 30919AF53B"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF65A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af65a.html",
+      "title": "30919AF65A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF65C",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af65c.html",
+      "title": "30919AF65C Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF66A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af66a.html",
+      "title": "30919AF66A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF66C",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af66c.html",
+      "title": "30919AF66C Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF66C",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af66c",
+      "title": "2018-2019 Subaru Automatic Transmission Control Module 30919AF66C | Subaru Online Parts",
+      "fitments": [],
+      "kind": "exact_part_product_discovery",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2018-2019",
+          "model": "Automatic Transmission Control Module 30919AF66C"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF71A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af71a.html",
+      "title": "30919AF71A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF71B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af71b.html",
+      "title": "30919AF71B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF72A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af72a.html",
+      "title": "30919AF72A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF72B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af72b.html",
+      "title": "30919AF72B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Legacy"
+        },
+        {
+          "years": "2018",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF72B",
+      "url": "https://www.subaruparts.com/oem-parts/subaru-automatic-transmission-control-module-30919af72b",
+      "title": "2018-2019 Subaru Outback Automatic Transmission Control Module 30919AF72B | Subaru Parts Store",
+      "fitments": [
+        {
+          "years": "2018-2019",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2018-2019",
+          "model": "Outback Automatic Transmission Control Module 30919AF72B"
+        }
+      ]
+    },
+    {
+      "part_number": "30919AF801",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af801.html",
+      "title": "30919AF801 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "WRX"
+        },
+        {
+          "years": "2018",
+          "model": "WRX STI"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF840",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af840.html",
+      "title": "30919AF840 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF842",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af842.html",
+      "title": "30919AF842 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF98B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af98b.html",
+      "title": "30919AF98B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2019",
+          "model": "Ascent"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AF99B",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919af99b.html",
+      "title": "30919AF99B Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2019",
+          "model": "Ascent"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG022",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag022.html",
+      "title": "30919AG022 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2020-2021",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG032",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag032.html",
+      "title": "30919AG032 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2020-2021",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG31A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag31a.html",
+      "title": "30919AG31A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG31C",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag31c.html",
+      "title": "30919AG31C Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG32A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag32a.html",
+      "title": "30919AG32A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919AG32C",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919ag32c.html",
+      "title": "30919AG32C Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2018",
+          "model": "Impreza"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "30919JB111",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-at-control~30919jb111.html",
+      "title": "30919JB111 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2016",
+          "model": "BRZ"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AF90A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711af90a.html",
+      "title": "31711AF90A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2002",
+          "model": "Legacy"
+        },
+        {
+          "years": "2002",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AF90C",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assy-at-cont~31711af90c.html",
+      "title": "31711AF90C Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2002",
+          "model": "Legacy"
+        },
+        {
+          "years": "2002",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AF91A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711af91a.html",
+      "title": "31711AF91A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2002",
+          "model": "Legacy"
+        },
+        {
+          "years": "2002",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AF92A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711af92a.html",
+      "title": "31711AF92A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2002",
+          "model": "Legacy"
+        },
+        {
+          "years": "2002",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG800",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag800.html",
+      "title": "31711AG800 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG802",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag802.html",
+      "title": "31711AG802 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG810",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag810.html",
+      "title": "31711AG810 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG812",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag812.html",
+      "title": "31711AG812 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG830",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag830.html",
+      "title": "31711AG830 Genuine Subaru Unit Assembly At Control C0U6",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG850",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag850.html",
+      "title": "31711AG850 Genuine Subaru Unit Assembly At Control C0U6",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AG880",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ag880.html",
+      "title": "31711AG880 Genuine Subaru Unit Assembly At Control U5",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH240",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ah240.html",
+      "title": "31711AH240 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Impreza"
+        },
+        {
+          "years": "2004",
+          "model": "Impreza STI"
+        },
+        {
+          "years": "2004",
+          "model": "Impreza WRX"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH370",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ah370.html",
+      "title": "31711AH370 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH381",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-ay-at-cont~31711ah381.html",
+      "title": "31711AH381 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Forester"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH61A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ah61a.html",
+      "title": "31711AH61A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Baja"
+        },
+        {
+          "years": "2004",
+          "model": "Legacy"
+        },
+        {
+          "years": "2004",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH82A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ah82a.html",
+      "title": "31711AH82A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Baja"
+        },
+        {
+          "years": "2004",
+          "model": "Legacy"
+        },
+        {
+          "years": "2004",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AH83A",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711ah83a.html",
+      "title": "31711AH83A Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Baja"
+        },
+        {
+          "years": "2004",
+          "model": "Legacy"
+        },
+        {
+          "years": "2004",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ000",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711aj000.html",
+      "title": "31711AJ000 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Baja"
+        },
+        {
+          "years": "2004",
+          "model": "Legacy"
+        },
+        {
+          "years": "2004",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ001",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-ay-at-cont~31711aj001.html",
+      "title": "31711AJ001 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2004",
+          "model": "Baja"
+        },
+        {
+          "years": "2004",
+          "model": "Legacy"
+        },
+        {
+          "years": "2004",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ200",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711aj200.html",
+      "title": "31711AJ200 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ202",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711aj202.html",
+      "title": "31711AJ202 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Legacy"
+        },
+        {
+          "years": "2005",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ520",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711aj520.html",
+      "title": "31711AJ520 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2005",
+          "model": "Impreza"
+        },
+        {
+          "years": "2005",
+          "model": "Impreza STI"
+        },
+        {
+          "years": "2005",
+          "model": "Impreza WRX"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AJ674",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711aj674.html",
+      "title": "31711AJ674 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2006",
+          "model": "Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AK752",
+      "url": "https://parts.subaruonlineparts.com/oem-parts/subaru-automatic-transmission-control-module-31711ak752",
+      "title": "2007 Subaru B9 Tribeca Automatic Transmission Control Module 31711AK752 | Subaru Online Parts",
+      "fitments": [
+        {
+          "years": "2007",
+          "model": "B9 Tribeca"
+        }
+      ],
+      "kind": "exact_part_product_title_fitment",
+      "date": "2026-11-21",
+      "rejected_parser_matches": [
+        {
+          "years": "2007",
+          "model": "B9 Tribeca Automatic Transmission Control Module 31711AK752"
+        }
+      ]
+    },
+    {
+      "part_number": "31711AL290",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711al290.html",
+      "title": "31711AL290 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2008",
+          "model": "Legacy"
+        },
+        {
+          "years": "2008",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AL310",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711al310.html",
+      "title": "31711AL310 Genuine Subaru PB001021 Unit Assembly At Control",
+      "fitments": [
+        {
+          "years": "2008",
+          "model": "Legacy"
+        },
+        {
+          "years": "2008",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    },
+    {
+      "part_number": "31711AL500",
+      "url": "https://www.subarupartsdeal.com/parts/subaru-unit-assembly-at-control~31711al500.html",
+      "title": "31711AL500 Genuine Subaru Automatic Transmission Control Module",
+      "fitments": [
+        {
+          "years": "2008",
+          "model": "Legacy"
+        },
+        {
+          "years": "2008",
+          "model": "Outback"
+        }
+      ],
+      "kind": "exact_part_product_fitment_table",
+      "date": "2026-11-21"
+    }
+  ],
+  "searches": [
+    {
+      "part_number": "30919AA000",
+      "query": "\"30919AA000\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA006",
+      "query": "\"30919AA006\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA070",
+      "query": "\"30919AA070\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AA074",
+      "query": "\"30919AA074\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AA080",
+      "query": "\"30919AA080\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AA084",
+      "query": "\"30919AA084\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AA090",
+      "query": "\"30919AA090\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA092",
+      "query": "\"30919AA092\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA100",
+      "query": "\"30919AA100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA101",
+      "query": "\"30919AA101\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA110",
+      "query": "\"30919AA110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA111",
+      "query": "\"30919AA111\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA120",
+      "query": "\"30919AA120\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA121",
+      "query": "\"30919AA121\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA130",
+      "query": "\"30919AA130\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA131",
+      "query": "\"30919AA131\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA141",
+      "query": "\"30919AA141\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA150",
+      "query": "\"30919AA150\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA151",
+      "query": "\"30919AA151\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA525",
+      "query": "\"30919AA525\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA535",
+      "query": "\"30919AA535\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA545",
+      "query": "\"30919AA545\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA555",
+      "query": "\"30919AA555\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AA735",
+      "query": "\"30919AA735\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AA745",
+      "query": "\"30919AA745\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB013",
+      "query": "\"30919AB013\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB014",
+      "query": "\"30919AB014\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB023",
+      "query": "\"30919AB023\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB024",
+      "query": "\"30919AB024\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB050",
+      "query": "\"30919AB050\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB052",
+      "query": "\"30919AB052\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB060",
+      "query": "\"30919AB060\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB062 ",
+      "query": "\"30919AB062 \" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB070",
+      "query": "\"30919AB070\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB072 ",
+      "query": "\"30919AB072 \" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB080",
+      "query": "\"30919AB080\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB082",
+      "query": "\"30919AB082\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB090",
+      "query": "\"30919AB090\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB092",
+      "query": "\"30919AB092\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB100",
+      "query": "\"30919AB100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB102",
+      "query": "\"30919AB102\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB190",
+      "query": "\"30919AB190\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB193",
+      "query": "\"30919AB193\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB200",
+      "query": "\"30919AB200\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB202",
+      "query": "\"30919AB202\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB210",
+      "query": "\"30919AB210\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB212",
+      "query": "\"30919AB212\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB430",
+      "query": "\"30919AB430\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB431",
+      "query": "\"30919AB431\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB440",
+      "query": "\"30919AB440\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB441",
+      "query": "\"30919AB441\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB450",
+      "query": "\"30919AB450\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB451",
+      "query": "\"30919AB451\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB460",
+      "query": "\"30919AB460\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB461",
+      "query": "\"30919AB461\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB470",
+      "query": "\"30919AB470\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB471",
+      "query": "\"30919AB471\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB530",
+      "query": "\"30919AB530\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB531",
+      "query": "\"30919AB531\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB540",
+      "query": "\"30919AB540\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB541",
+      "query": "\"30919AB541\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB550",
+      "query": "\"30919AB550\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB551",
+      "query": "\"30919AB551\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB560",
+      "query": "\"30919AB560\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB561",
+      "query": "\"30919AB561\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB672",
+      "query": "\"30919AB672\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB673",
+      "query": "\"30919AB673\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB682",
+      "query": "\"30919AB682\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB683",
+      "query": "\"30919AB683\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB880",
+      "query": "\"30919AB880\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB881",
+      "query": "\"30919AB881\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB890",
+      "query": "\"30919AB890\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB891",
+      "query": "\"30919AB891\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AB900",
+      "query": "\"30919AB900\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB901",
+      "query": "\"30919AB901\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB990",
+      "query": "\"30919AB990\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AB991",
+      "query": "\"30919AB991\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC000",
+      "query": "\"30919AC000\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC001",
+      "query": "\"30919AC001\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC090",
+      "query": "\"30919AC090\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AC092",
+      "query": "\"30919AC092\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AC100",
+      "query": "\"30919AC100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC102",
+      "query": "\"30919AC102\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC110",
+      "query": "\"30919AC110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC112",
+      "query": "\"30919AC112\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC120",
+      "query": "\"30919AC120\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC122",
+      "query": "\"30919AC122\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC150",
+      "query": "\"30919AC150\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC152",
+      "query": "\"30919AC152\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC160",
+      "query": "\"30919AC160\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC161",
+      "query": "\"30919AC161\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC170",
+      "query": "\"30919AC170\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC171",
+      "query": "\"30919AC171\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC180",
+      "query": "\"30919AC180\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC181",
+      "query": "\"30919AC181\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC190",
+      "query": "\"30919AC190\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC191",
+      "query": "\"30919AC191\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC200",
+      "query": "\"30919AC200\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC201",
+      "query": "\"30919AC201\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC210",
+      "query": "\"30919AC210\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC211",
+      "query": "\"30919AC211\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC220",
+      "query": "\"30919AC220\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC221",
+      "query": "\"30919AC221\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC290",
+      "query": "\"30919AC290\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC291",
+      "query": "\"30919AC291\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC300",
+      "query": "\"30919AC300\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC301",
+      "query": "\"30919AC301\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC320",
+      "query": "\"30919AC320\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC321",
+      "query": "\"30919AC321\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AC330",
+      "query": "\"30919AC330\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AC331",
+      "query": "\"30919AC331\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AC740",
+      "query": "\"30919AC740\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC741",
+      "query": "\"30919AC741\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC750",
+      "query": "\"30919AC750\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC751",
+      "query": "\"30919AC751\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC800",
+      "query": "\"30919AC800\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC801",
+      "query": "\"30919AC801\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC810",
+      "query": "\"30919AC810\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC811",
+      "query": "\"30919AC811\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC850",
+      "query": "\"30919AC850\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC851",
+      "query": "\"30919AC851\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC860",
+      "query": "\"30919AC860\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AC861",
+      "query": "\"30919AC861\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD100",
+      "query": "\"30919AD100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD102",
+      "query": "\"30919AD102\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD110",
+      "query": "\"30919AD110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD112",
+      "query": "\"30919AD112\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD320",
+      "query": "\"30919AD320\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD323",
+      "query": "\"30919AD323\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD330",
+      "query": "\"30919AD330\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD333",
+      "query": "\"30919AD333\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD360",
+      "query": "\"30919AD360\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD361",
+      "query": "\"30919AD361\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD370",
+      "query": "\"30919AD370\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD371",
+      "query": "\"30919AD371\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD390",
+      "query": "\"30919AD390\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD391",
+      "query": "\"30919AD391\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD720",
+      "query": "\"30919AD720\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD721",
+      "query": "\"30919AD721\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD730",
+      "query": "\"30919AD730\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD731",
+      "query": "\"30919AD731\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD760",
+      "query": "\"30919AD760\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD761",
+      "query": "\"30919AD761\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD791",
+      "query": "\"30919AD791\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD792",
+      "query": "\"30919AD792\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD800",
+      "query": "\"30919AD800\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD801",
+      "query": "\"30919AD801\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD950",
+      "query": "\"30919AD950\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD951",
+      "query": "\"30919AD951\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AD960",
+      "query": "\"30919AD960\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD961",
+      "query": "\"30919AD961\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD990",
+      "query": "\"30919AD990\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AD991",
+      "query": "\"30919AD991\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE000",
+      "query": "\"30919AE000\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE001",
+      "query": "\"30919AE001\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE060",
+      "query": "\"30919AE060\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE061",
+      "query": "\"30919AE061\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE120",
+      "query": "\"30919AE120\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE122",
+      "query": "\"30919AE122\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE290",
+      "query": "\"30919AE290\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE291",
+      "query": "\"30919AE291\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE370",
+      "query": "\"30919AE370\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE371",
+      "query": "\"30919AE371\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE380",
+      "query": "\"30919AE380\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE381",
+      "query": "\"30919AE381\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE390",
+      "query": "\"30919AE390\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE391",
+      "query": "\"30919AE391\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE410",
+      "query": "\"30919AE410\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE440",
+      "query": "\"30919AE440\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE550",
+      "query": "\"30919AE550\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE551",
+      "query": "\"30919AE551\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE560",
+      "query": "\"30919AE560\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE561",
+      "query": "\"30919AE561\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE640",
+      "query": "\"30919AE640\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE642",
+      "query": "\"30919AE642\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE720",
+      "query": "\"30919AE720\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE721",
+      "query": "\"30919AE721\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE730",
+      "query": "\"30919AE730\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE731",
+      "query": "\"30919AE731\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE740",
+      "query": "\"30919AE740\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE742",
+      "query": "\"30919AE742\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE750",
+      "query": "\"30919AE750\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE752",
+      "query": "\"30919AE752\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE760",
+      "query": "\"30919AE760\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE761",
+      "query": "\"30919AE761\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE770",
+      "query": "\"30919AE770\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE771",
+      "query": "\"30919AE771\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE780",
+      "query": "\"30919AE780\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE782",
+      "query": "\"30919AE782\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE790",
+      "query": "\"30919AE790\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE792",
+      "query": "\"30919AE792\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE800",
+      "query": "\"30919AE800\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE802",
+      "query": "\"30919AE802\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE810",
+      "query": "\"30919AE810\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE812",
+      "query": "\"30919AE812\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE820",
+      "query": "\"30919AE820\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE822",
+      "query": "\"30919AE822\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE830",
+      "query": "\"30919AE830\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE832",
+      "query": "\"30919AE832\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE840",
+      "query": "\"30919AE840\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE841",
+      "query": "\"30919AE841\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE850",
+      "query": "\"30919AE850\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE851",
+      "query": "\"30919AE851\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE870",
+      "query": "\"30919AE870\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE871",
+      "query": "\"30919AE871\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AE881",
+      "query": "\"30919AE881\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE882",
+      "query": "\"30919AE882\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE891",
+      "query": "\"30919AE891\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE892",
+      "query": "\"30919AE892\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE901",
+      "query": "\"30919AE901\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE902",
+      "query": "\"30919AE902\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE911",
+      "query": "\"30919AE911\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE912",
+      "query": "\"30919AE912\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE981",
+      "query": "\"30919AE981\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AE982",
+      "query": "\"30919AE982\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF030",
+      "query": "\"30919AF030\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF032",
+      "query": "\"30919AF032\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF040",
+      "query": "\"30919AF040\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF042",
+      "query": "\"30919AF042\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF050",
+      "query": "\"30919AF050\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF051",
+      "query": "\"30919AF051\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF060",
+      "query": "\"30919AF060\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF061",
+      "query": "\"30919AF061\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF070",
+      "query": "\"30919AF070\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF071",
+      "query": "\"30919AF071\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF080",
+      "query": "\"30919AF080\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF081",
+      "query": "\"30919AF081\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF12A",
+      "query": "\"30919AF12A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF12B",
+      "query": "\"30919AF12B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF130",
+      "query": "\"30919AF130\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF132",
+      "query": "\"30919AF132\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF140",
+      "query": "\"30919AF140\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF142",
+      "query": "\"30919AF142\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF150",
+      "query": "\"30919AF150\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF151",
+      "query": "\"30919AF151\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF20A",
+      "query": "\"30919AF20A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF20B",
+      "query": "\"30919AF20B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF210",
+      "query": "\"30919AF210\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF212",
+      "query": "\"30919AF212\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF220",
+      "query": "\"30919AF220\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF221",
+      "query": "\"30919AF221\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF230",
+      "query": "\"30919AF230\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF232",
+      "query": "\"30919AF232\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF240",
+      "query": "\"30919AF240\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF242",
+      "query": "\"30919AF242\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF260",
+      "query": "\"30919AF260\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF262",
+      "query": "\"30919AF262\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF270",
+      "query": "\"30919AF270\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF271",
+      "query": "\"30919AF271\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF280",
+      "query": "\"30919AF280\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF281",
+      "query": "\"30919AF281\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF300",
+      "query": "\"30919AF300\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF301",
+      "query": "\"30919AF301\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF310",
+      "query": "\"30919AF310\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF311",
+      "query": "\"30919AF311\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF46A",
+      "query": "\"30919AF46A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF46B",
+      "query": "\"30919AF46B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF47A",
+      "query": "\"30919AF47A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF47C",
+      "query": "\"30919AF47C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF480",
+      "query": "\"30919AF480\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF482",
+      "query": "\"30919AF482\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF490",
+      "query": "\"30919AF490\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF493",
+      "query": "\"30919AF493\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF500",
+      "query": "\"30919AF500\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF502",
+      "query": "\"30919AF502\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF510",
+      "query": "\"30919AF510\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF513",
+      "query": "\"30919AF513\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF53A",
+      "query": "\"30919AF53A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF53B",
+      "query": "\"30919AF53B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF65A",
+      "query": "\"30919AF65A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF65C",
+      "query": "\"30919AF65C\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF66A",
+      "query": "\"30919AF66A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF66C",
+      "query": "\"30919AF66C\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF670",
+      "query": "\"30919AF670\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF671",
+      "query": "\"30919AF671\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF680",
+      "query": "\"30919AF680\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF681",
+      "query": "\"30919AF681\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF690",
+      "query": "\"30919AF690\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF691",
+      "query": "\"30919AF691\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF700",
+      "query": "\"30919AF700\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF701",
+      "query": "\"30919AF701\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF71A",
+      "query": "\"30919AF71A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF71B",
+      "query": "\"30919AF71B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF72A",
+      "query": "\"30919AF72A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF72B",
+      "query": "\"30919AF72B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF760",
+      "query": "\"30919AF760\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF761",
+      "query": "\"30919AF761\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF770",
+      "query": "\"30919AF770\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF771",
+      "query": "\"30919AF771\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF800",
+      "query": "\"30919AF800\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF801",
+      "query": "\"30919AF801\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF830",
+      "query": "\"30919AF830\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF832",
+      "query": "\"30919AF832\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF840",
+      "query": "\"30919AF840\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF842",
+      "query": "\"30919AF842\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF850",
+      "query": "\"30919AF850\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF851",
+      "query": "\"30919AF851\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF860",
+      "query": "\"30919AF860\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF861",
+      "query": "\"30919AF861\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF900",
+      "query": "\"30919AF900\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF901",
+      "query": "\"30919AF901\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF930",
+      "query": "\"30919AF930\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF931",
+      "query": "\"30919AF931\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF960",
+      "query": "\"30919AF960\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF961",
+      "query": "\"30919AF961\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF98B",
+      "query": "\"30919AF98B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF98C",
+      "query": "\"30919AF98C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AF99B",
+      "query": "\"30919AF99B\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AF99C",
+      "query": "\"30919AF99C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG***",
+      "query": "\"30919AG***\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG022",
+      "query": "\"30919AG022\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG032",
+      "query": "\"30919AG032\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG040",
+      "query": "\"30919AG040\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG041",
+      "query": "\"30919AG041\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG050",
+      "query": "\"30919AG050\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG051",
+      "query": "\"30919AG051\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG060",
+      "query": "\"30919AG060\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG061",
+      "query": "\"30919AG061\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG070",
+      "query": "\"30919AG070\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG071",
+      "query": "\"30919AG071\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG080",
+      "query": "\"30919AG080\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG081",
+      "query": "\"30919AG081\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG100",
+      "query": "\"30919AG100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG101",
+      "query": "\"30919AG101\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG110",
+      "query": "\"30919AG110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG111",
+      "query": "\"30919AG111\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG120",
+      "query": "\"30919AG120\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG121",
+      "query": "\"30919AG121\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG130",
+      "query": "\"30919AG130\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG131",
+      "query": "\"30919AG131\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG17*",
+      "query": "\"30919AG17*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG172",
+      "query": "\"30919AG172\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG23*",
+      "query": "\"30919AG23*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG232",
+      "query": "\"30919AG232\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG24*",
+      "query": "\"30919AG24*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG242",
+      "query": "\"30919AG242\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG31A",
+      "query": "\"30919AG31A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG31C",
+      "query": "\"30919AG31C\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG32A",
+      "query": "\"30919AG32A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG32C",
+      "query": "\"30919AG32C\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "30919AG330",
+      "query": "\"30919AG330\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG331",
+      "query": "\"30919AG331\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG340",
+      "query": "\"30919AG340\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG341",
+      "query": "\"30919AG341\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG350",
+      "query": "\"30919AG350\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG351",
+      "query": "\"30919AG351\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG360",
+      "query": "\"30919AG360\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG361",
+      "query": "\"30919AG361\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG370",
+      "query": "\"30919AG370\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG371",
+      "query": "\"30919AG371\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG450",
+      "query": "\"30919AG450\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG460",
+      "query": "\"30919AG460\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG48*",
+      "query": "\"30919AG48*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG483",
+      "query": "\"30919AG483\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG49*",
+      "query": "\"30919AG49*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG493",
+      "query": "\"30919AG493\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG830",
+      "query": "\"30919AG830\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG831",
+      "query": "\"30919AG831\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG840",
+      "query": "\"30919AG840\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG841",
+      "query": "\"30919AG841\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG850",
+      "query": "\"30919AG850\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG851",
+      "query": "\"30919AG851\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG860",
+      "query": "\"30919AG860\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG861",
+      "query": "\"30919AG861\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG870",
+      "query": "\"30919AG870\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG871",
+      "query": "\"30919AG871\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG920",
+      "query": "\"30919AG920\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG921",
+      "query": "\"30919AG921\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG930",
+      "query": "\"30919AG930\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG931",
+      "query": "\"30919AG931\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG940",
+      "query": "\"30919AG940\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG941",
+      "query": "\"30919AG941\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG950",
+      "query": "\"30919AG950\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AG951",
+      "query": "\"30919AG951\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH080",
+      "query": "\"30919AH080\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH081",
+      "query": "\"30919AH081\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH100",
+      "query": "\"30919AH100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH101",
+      "query": "\"30919AH101\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH110",
+      "query": "\"30919AH110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH111",
+      "query": "\"30919AH111\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH120",
+      "query": "\"30919AH120\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH121",
+      "query": "\"30919AH121\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH19*",
+      "query": "\"30919AH19*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH192",
+      "query": "\"30919AH192\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH20*",
+      "query": "\"30919AH20*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH202",
+      "query": "\"30919AH202\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH55*",
+      "query": "\"30919AH55*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH552",
+      "query": "\"30919AH552\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH56*",
+      "query": "\"30919AH56*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH562",
+      "query": "\"30919AH562\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH58*",
+      "query": "\"30919AH58*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH581",
+      "query": "\"30919AH581\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH59*",
+      "query": "\"30919AH59*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH592",
+      "query": "\"30919AH592\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH60*",
+      "query": "\"30919AH60*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH602",
+      "query": "\"30919AH602\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH61*",
+      "query": "\"30919AH61*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH612",
+      "query": "\"30919AH612\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH820",
+      "query": "\"30919AH820\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AH821",
+      "query": "\"30919AH821\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AJ46*",
+      "query": "\"30919AJ46*\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919AJ461",
+      "query": "\"30919AJ461\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919JB110",
+      "query": "\"30919JB110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "30919JB111",
+      "query": "\"30919JB111\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AF90A",
+      "query": "\"31711AF90A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AF90C",
+      "query": "\"31711AF90C\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AF91A",
+      "query": "\"31711AF91A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AF91C",
+      "query": "\"31711AF91C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AF92A",
+      "query": "\"31711AF92A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AF92C",
+      "query": "\"31711AF92C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG140",
+      "query": "\"31711AG140\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG142",
+      "query": "\"31711AG142\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG33A",
+      "query": "\"31711AG33A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG33C",
+      "query": "\"31711AG33C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG35A",
+      "query": "\"31711AG35A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG35C",
+      "query": "\"31711AG35C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG36A",
+      "query": "\"31711AG36A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG36C",
+      "query": "\"31711AG36C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG520",
+      "query": "\"31711AG520\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG522",
+      "query": "\"31711AG522\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG530",
+      "query": "\"31711AG530\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG532",
+      "query": "\"31711AG532\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG540",
+      "query": "\"31711AG540\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG542",
+      "query": "\"31711AG542\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG589",
+      "query": "\"31711AG589\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG610",
+      "query": "\"31711AG610\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG614",
+      "query": "\"31711AG614\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG615",
+      "query": "\"31711AG615\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG617",
+      "query": "\"31711AG617\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG620",
+      "query": "\"31711AG620\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG624",
+      "query": "\"31711AG624\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG625",
+      "query": "\"31711AG625\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG630",
+      "query": "\"31711AG630\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG634",
+      "query": "\"31711AG634\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG635",
+      "query": "\"31711AG635\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG637",
+      "query": "\"31711AG637\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG800",
+      "query": "\"31711AG800\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG802",
+      "query": "\"31711AG802\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG810",
+      "query": "\"31711AG810\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG812",
+      "query": "\"31711AG812\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG820",
+      "query": "\"31711AG820\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG824",
+      "query": "\"31711AG824\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG825",
+      "query": "\"31711AG825\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG827",
+      "query": "\"31711AG827\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG830",
+      "query": "\"31711AG830\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG831",
+      "query": "\"31711AG831\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG850",
+      "query": "\"31711AG850\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG851",
+      "query": "\"31711AG851\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG860",
+      "query": "\"31711AG860\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG861",
+      "query": "\"31711AG861\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG880",
+      "query": "\"31711AG880\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AG881",
+      "query": "\"31711AG881\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG940",
+      "query": "\"31711AG940\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AG942",
+      "query": "\"31711AG942\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH240",
+      "query": "\"31711AH240\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH241",
+      "query": "\"31711AH241\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH250",
+      "query": "\"31711AH250\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH251",
+      "query": "\"31711AH251\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH370",
+      "query": "\"31711AH370\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH371",
+      "query": "\"31711AH371\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH380",
+      "query": "\"31711AH380\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH381",
+      "query": "\"31711AH381\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH420",
+      "query": "\"31711AH420\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH421",
+      "query": "\"31711AH421\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH440",
+      "query": "\"31711AH440\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH441",
+      "query": "\"31711AH441\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH500",
+      "query": "\"31711AH500\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH501",
+      "query": "\"31711AH501\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH51A",
+      "query": "\"31711AH51A\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH51B",
+      "query": "\"31711AH51B\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH540",
+      "query": "\"31711AH540\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH541",
+      "query": "\"31711AH541\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH580",
+      "query": "\"31711AH580\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH584",
+      "query": "\"31711AH584\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH585",
+      "query": "\"31711AH585\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH587",
+      "query": "\"31711AH587\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH590",
+      "query": "\"31711AH590\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH594",
+      "query": "\"31711AH594\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH595",
+      "query": "\"31711AH595\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH597",
+      "query": "\"31711AH597\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH61A",
+      "query": "\"31711AH61A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH61C",
+      "query": "\"31711AH61C\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH770",
+      "query": "\"31711AH770\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH771",
+      "query": "\"31711AH771\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH780",
+      "query": "\"31711AH780\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH781",
+      "query": "\"31711AH781\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH790",
+      "query": "\"31711AH790\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH791",
+      "query": "\"31711AH791\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH810",
+      "query": "\"31711AH810\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH811",
+      "query": "\"31711AH811\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH82A",
+      "query": "\"31711AH82A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH82B",
+      "query": "\"31711AH82B\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AH83A",
+      "query": "\"31711AH83A\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AH83B",
+      "query": "\"31711AH83B\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ000",
+      "query": "\"31711AJ000\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ001",
+      "query": "\"31711AJ001\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ200",
+      "query": "\"31711AJ200\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ202",
+      "query": "\"31711AJ202\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ360",
+      "query": "\"31711AJ360\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ361",
+      "query": "\"31711AJ361\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ520",
+      "query": "\"31711AJ520\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ521",
+      "query": "\"31711AJ521\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ674",
+      "query": "\"31711AJ674\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AJ675",
+      "query": "\"31711AJ675\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ676",
+      "query": "\"31711AJ676\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ730",
+      "query": "\"31711AJ730\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ732",
+      "query": "\"31711AJ732\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ734",
+      "query": "\"31711AJ734\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ782",
+      "query": "\"31711AJ782\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ810",
+      "query": "\"31711AJ810\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ812",
+      "query": "\"31711AJ812\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ814",
+      "query": "\"31711AJ814\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ820",
+      "query": "\"31711AJ820\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ822",
+      "query": "\"31711AJ822\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ824",
+      "query": "\"31711AJ824\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ830",
+      "query": "\"31711AJ830\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ832",
+      "query": "\"31711AJ832\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ834",
+      "query": "\"31711AJ834\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ840",
+      "query": "\"31711AJ840\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ842",
+      "query": "\"31711AJ842\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ844",
+      "query": "\"31711AJ844\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ850",
+      "query": "\"31711AJ850\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ852",
+      "query": "\"31711AJ852\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ860",
+      "query": "\"31711AJ860\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ862",
+      "query": "\"31711AJ862\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AJ864",
+      "query": "\"31711AJ864\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AK751",
+      "query": "\"31711AK751\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AK752",
+      "query": "\"31711AK752\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AL170",
+      "query": "\"31711AL170\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL172",
+      "query": "\"31711AL172\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL180",
+      "query": "\"31711AL180\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL182",
+      "query": "\"31711AL182\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL190",
+      "query": "\"31711AL190\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL192",
+      "query": "\"31711AL192\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL290",
+      "query": "\"31711AL290\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AL310",
+      "query": "\"31711AL310\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AL320",
+      "query": "\"31711AL320\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL330",
+      "query": "\"31711AL330\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AL500",
+      "query": "\"31711AL500\" Subaru",
+      "status": "exact_part_urls_found"
+    },
+    {
+      "part_number": "31711AM110",
+      "query": "\"31711AM110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN100",
+      "query": "\"31711AN100\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN101",
+      "query": "\"31711AN101\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN110",
+      "query": "\"31711AN110\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN111",
+      "query": "\"31711AN111\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN120",
+      "query": "\"31711AN120\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN121",
+      "query": "\"31711AN121\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN130",
+      "query": "\"31711AN130\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN131",
+      "query": "\"31711AN131\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN140",
+      "query": "\"31711AN140\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN141",
+      "query": "\"31711AN141\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN150",
+      "query": "\"31711AN150\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN151",
+      "query": "\"31711AN151\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN170",
+      "query": "\"31711AN170\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN171",
+      "query": "\"31711AN171\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN180",
+      "query": "\"31711AN180\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN181",
+      "query": "\"31711AN181\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN270",
+      "query": "\"31711AN270\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN271",
+      "query": "\"31711AN271\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN280",
+      "query": "\"31711AN280\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN281",
+      "query": "\"31711AN281\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN290",
+      "query": "\"31711AN290\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN291",
+      "query": "\"31711AN291\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN300",
+      "query": "\"31711AN300\" Subaru",
+      "status": "no_exact_part_product_result"
+    },
+    {
+      "part_number": "31711AN301",
+      "query": "\"31711AN301\" Subaru",
+      "status": "no_exact_part_product_result"
+    }
+  ]
+}

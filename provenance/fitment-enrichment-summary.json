@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-21",
+  "tool": "enrich_fitment.py v1",
+  "python": "3.12.10",
+  "command": "python tools/enrich_fitment.py --apply",
+  "script_sha256": "95433c73210b53619f127e8e73718b9e11498fbd2b37d0553acff2a902380361",
+  "base_commit": "204b987a598e7aed4bc3284581a560ffd19af516",
+  "catalog_rows": 309,
+  "binary_count": 289,
+  "renamed_binaries": 289,
+  "binaries_with_years": 284,
+  "unknown_model_before": 19,
+  "unknown_model_after": 5,
+  "unknown_models_resolved": 14,
+  "online_parts_searched": 564,
+  "online_parts_with_fitment": 102,
+  "catalog_rows_with_online_fitment": 67,
+  "package_rows_with_database_applicability": 291,
+  "unresolved_model_paths": [
+    "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+    "5EAT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__91D0207500__No-Part-Number__23c14950cc22__shared-image.bin",
+    "5EAT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__91D1206000__No-Part-Number__8a014d3e2205__shared-image.bin",
+    "5EAT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__91D1207900__31711AG589__6279779d7ef2__shared-image.bin",
+    "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin"
+  ],
+  "binary_sha256_set_unchanged": true,
+  "parts_subaru_access": "HTTP 403; indexed searches had no results",
+  "input_sha256": {
+    "provenance/part-fitment-online.json": "d7eaf76c44eb1668740ddfdf8b50e3ce45726ffbc132f601d45f7f1007d32a1f",
+    "provenance/market-cross-reference.csv": "68633376347ce1386815ade7108f3dd5708d0ab7b29cb2e3c120df054974b9b2",
+    "provenance/market-database-evidence.csv": "fbad1302fd0751663727f75a1f567b3329657d13be3c6eb113147205f6e62ae8"
+  }
+}

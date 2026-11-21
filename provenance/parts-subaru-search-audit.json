@@ -1,0 +1,1037 @@
+{
+  "date": "2026-11-21",
+  "domain": "parts.subaru.com",
+  "direct_access": "HTTP 403 through web tool",
+  "limitation": "Batched exact-part OR queries; absence of indexed matches is not proof of non-fitment.",
+  "batches": [
+    {
+      "parts": [
+        "30919AA000",
+        "30919AA006",
+        "30919AA070",
+        "30919AA074",
+        "30919AA080",
+        "30919AA084",
+        "30919AA090",
+        "30919AA092",
+        "30919AA100",
+        "30919AA101",
+        "30919AA110",
+        "30919AA111",
+        "30919AA120",
+        "30919AA121",
+        "30919AA130",
+        "30919AA131"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AA000\" OR \"30919AA006\" OR \"30919AA070\" OR \"30919AA074\")",
+        "site:parts.subaru.com (\"30919AA080\" OR \"30919AA084\" OR \"30919AA090\" OR \"30919AA092\")",
+        "site:parts.subaru.com (\"30919AA100\" OR \"30919AA101\" OR \"30919AA110\" OR \"30919AA111\")",
+        "site:parts.subaru.com (\"30919AA120\" OR \"30919AA121\" OR \"30919AA130\" OR \"30919AA131\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AA141",
+        "30919AA150",
+        "30919AA151",
+        "30919AA525",
+        "30919AA535",
+        "30919AA545",
+        "30919AA555",
+        "30919AA735",
+        "30919AA745",
+        "30919AB013",
+        "30919AB014",
+        "30919AB023",
+        "30919AB024",
+        "30919AB050",
+        "30919AB052",
+        "30919AB060"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AA141\" OR \"30919AA150\" OR \"30919AA151\" OR \"30919AA525\")",
+        "site:parts.subaru.com (\"30919AA535\" OR \"30919AA545\" OR \"30919AA555\" OR \"30919AA735\")",
+        "site:parts.subaru.com (\"30919AA745\" OR \"30919AB013\" OR \"30919AB014\" OR \"30919AB023\")",
+        "site:parts.subaru.com (\"30919AB024\" OR \"30919AB050\" OR \"30919AB052\" OR \"30919AB060\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AB062 ",
+        "30919AB070",
+        "30919AB072 ",
+        "30919AB080",
+        "30919AB082",
+        "30919AB090",
+        "30919AB092",
+        "30919AB100",
+        "30919AB102",
+        "30919AB190",
+        "30919AB193",
+        "30919AB200",
+        "30919AB202",
+        "30919AB210",
+        "30919AB212",
+        "30919AB430"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AB062 \" OR \"30919AB070\" OR \"30919AB072 \" OR \"30919AB080\")",
+        "site:parts.subaru.com (\"30919AB082\" OR \"30919AB090\" OR \"30919AB092\" OR \"30919AB100\")",
+        "site:parts.subaru.com (\"30919AB102\" OR \"30919AB190\" OR \"30919AB193\" OR \"30919AB200\")",
+        "site:parts.subaru.com (\"30919AB202\" OR \"30919AB210\" OR \"30919AB212\" OR \"30919AB430\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AB431",
+        "30919AB440",
+        "30919AB441",
+        "30919AB450",
+        "30919AB451",
+        "30919AB460",
+        "30919AB461",
+        "30919AB470",
+        "30919AB471",
+        "30919AB530",
+        "30919AB531",
+        "30919AB540",
+        "30919AB541",
+        "30919AB550",
+        "30919AB551",
+        "30919AB560"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AB431\" OR \"30919AB440\" OR \"30919AB441\" OR \"30919AB450\")",
+        "site:parts.subaru.com (\"30919AB451\" OR \"30919AB460\" OR \"30919AB461\" OR \"30919AB470\")",
+        "site:parts.subaru.com (\"30919AB471\" OR \"30919AB530\" OR \"30919AB531\" OR \"30919AB540\")",
+        "site:parts.subaru.com (\"30919AB541\" OR \"30919AB550\" OR \"30919AB551\" OR \"30919AB560\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AB561",
+        "30919AB672",
+        "30919AB673",
+        "30919AB682",
+        "30919AB683",
+        "30919AB880",
+        "30919AB881",
+        "30919AB890",
+        "30919AB891",
+        "30919AB900",
+        "30919AB901",
+        "30919AB990",
+        "30919AB991",
+        "30919AC000",
+        "30919AC001",
+        "30919AC090"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AB561\" OR \"30919AB672\" OR \"30919AB673\" OR \"30919AB682\")",
+        "site:parts.subaru.com (\"30919AB683\" OR \"30919AB880\" OR \"30919AB881\" OR \"30919AB890\")",
+        "site:parts.subaru.com (\"30919AB891\" OR \"30919AB900\" OR \"30919AB901\" OR \"30919AB990\")",
+        "site:parts.subaru.com (\"30919AB991\" OR \"30919AC000\" OR \"30919AC001\" OR \"30919AC090\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AC092",
+        "30919AC100",
+        "30919AC102",
+        "30919AC110",
+        "30919AC112",
+        "30919AC120",
+        "30919AC122",
+        "30919AC150",
+        "30919AC152",
+        "30919AC160",
+        "30919AC161",
+        "30919AC170",
+        "30919AC171",
+        "30919AC180",
+        "30919AC181",
+        "30919AC190"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AC092\" OR \"30919AC100\" OR \"30919AC102\" OR \"30919AC110\")",
+        "site:parts.subaru.com (\"30919AC112\" OR \"30919AC120\" OR \"30919AC122\" OR \"30919AC150\")",
+        "site:parts.subaru.com (\"30919AC152\" OR \"30919AC160\" OR \"30919AC161\" OR \"30919AC170\")",
+        "site:parts.subaru.com (\"30919AC171\" OR \"30919AC180\" OR \"30919AC181\" OR \"30919AC190\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AC191",
+        "30919AC200",
+        "30919AC201",
+        "30919AC210",
+        "30919AC211",
+        "30919AC220",
+        "30919AC221",
+        "30919AC290",
+        "30919AC291",
+        "30919AC300",
+        "30919AC301",
+        "30919AC320",
+        "30919AC321",
+        "30919AC330",
+        "30919AC331",
+        "30919AC740"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AC191\" OR \"30919AC200\" OR \"30919AC201\" OR \"30919AC210\")",
+        "site:parts.subaru.com (\"30919AC211\" OR \"30919AC220\" OR \"30919AC221\" OR \"30919AC290\")",
+        "site:parts.subaru.com (\"30919AC291\" OR \"30919AC300\" OR \"30919AC301\" OR \"30919AC320\")",
+        "site:parts.subaru.com (\"30919AC321\" OR \"30919AC330\" OR \"30919AC331\" OR \"30919AC740\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AC741",
+        "30919AC750",
+        "30919AC751",
+        "30919AC800",
+        "30919AC801",
+        "30919AC810",
+        "30919AC811",
+        "30919AC850",
+        "30919AC851",
+        "30919AC860",
+        "30919AC861",
+        "30919AD100",
+        "30919AD102",
+        "30919AD110",
+        "30919AD112",
+        "30919AD320"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AC741\" OR \"30919AC750\" OR \"30919AC751\" OR \"30919AC800\")",
+        "site:parts.subaru.com (\"30919AC801\" OR \"30919AC810\" OR \"30919AC811\" OR \"30919AC850\")",
+        "site:parts.subaru.com (\"30919AC851\" OR \"30919AC860\" OR \"30919AC861\" OR \"30919AD100\")",
+        "site:parts.subaru.com (\"30919AD102\" OR \"30919AD110\" OR \"30919AD112\" OR \"30919AD320\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AD323",
+        "30919AD330",
+        "30919AD333",
+        "30919AD360",
+        "30919AD361",
+        "30919AD370",
+        "30919AD371",
+        "30919AD390",
+        "30919AD391",
+        "30919AD720",
+        "30919AD721",
+        "30919AD730",
+        "30919AD731",
+        "30919AD760",
+        "30919AD761",
+        "30919AD791"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AD323\" OR \"30919AD330\" OR \"30919AD333\" OR \"30919AD360\")",
+        "site:parts.subaru.com (\"30919AD361\" OR \"30919AD370\" OR \"30919AD371\" OR \"30919AD390\")",
+        "site:parts.subaru.com (\"30919AD391\" OR \"30919AD720\" OR \"30919AD721\" OR \"30919AD730\")",
+        "site:parts.subaru.com (\"30919AD731\" OR \"30919AD760\" OR \"30919AD761\" OR \"30919AD791\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AD792",
+        "30919AD800",
+        "30919AD801",
+        "30919AD950",
+        "30919AD951",
+        "30919AD960",
+        "30919AD961",
+        "30919AD990",
+        "30919AD991",
+        "30919AE000",
+        "30919AE001",
+        "30919AE060",
+        "30919AE061",
+        "30919AE120",
+        "30919AE122",
+        "30919AE290"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AD792\" OR \"30919AD800\" OR \"30919AD801\" OR \"30919AD950\")",
+        "site:parts.subaru.com (\"30919AD951\" OR \"30919AD960\" OR \"30919AD961\" OR \"30919AD990\")",
+        "site:parts.subaru.com (\"30919AD991\" OR \"30919AE000\" OR \"30919AE001\" OR \"30919AE060\")",
+        "site:parts.subaru.com (\"30919AE061\" OR \"30919AE120\" OR \"30919AE122\" OR \"30919AE290\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AE291",
+        "30919AE370",
+        "30919AE371",
+        "30919AE380",
+        "30919AE381",
+        "30919AE390",
+        "30919AE391",
+        "30919AE410",
+        "30919AE440",
+        "30919AE550",
+        "30919AE551",
+        "30919AE560",
+        "30919AE561",
+        "30919AE640",
+        "30919AE642",
+        "30919AE720"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AE291\" OR \"30919AE370\" OR \"30919AE371\" OR \"30919AE380\")",
+        "site:parts.subaru.com (\"30919AE381\" OR \"30919AE390\" OR \"30919AE391\" OR \"30919AE410\")",
+        "site:parts.subaru.com (\"30919AE440\" OR \"30919AE550\" OR \"30919AE551\" OR \"30919AE560\")",
+        "site:parts.subaru.com (\"30919AE561\" OR \"30919AE640\" OR \"30919AE642\" OR \"30919AE720\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AE721",
+        "30919AE730",
+        "30919AE731",
+        "30919AE740",
+        "30919AE742",
+        "30919AE750",
+        "30919AE752",
+        "30919AE760",
+        "30919AE761",
+        "30919AE770",
+        "30919AE771",
+        "30919AE780",
+        "30919AE782",
+        "30919AE790",
+        "30919AE792",
+        "30919AE800"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AE721\" OR \"30919AE730\" OR \"30919AE731\" OR \"30919AE740\")",
+        "site:parts.subaru.com (\"30919AE742\" OR \"30919AE750\" OR \"30919AE752\" OR \"30919AE760\")",
+        "site:parts.subaru.com (\"30919AE761\" OR \"30919AE770\" OR \"30919AE771\" OR \"30919AE780\")",
+        "site:parts.subaru.com (\"30919AE782\" OR \"30919AE790\" OR \"30919AE792\" OR \"30919AE800\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AE802",
+        "30919AE810",
+        "30919AE812",
+        "30919AE820",
+        "30919AE822",
+        "30919AE830",
+        "30919AE832",
+        "30919AE840",
+        "30919AE841",
+        "30919AE850",
+        "30919AE851",
+        "30919AE870",
+        "30919AE871",
+        "30919AE881",
+        "30919AE882",
+        "30919AE891"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AE802\" OR \"30919AE810\" OR \"30919AE812\" OR \"30919AE820\")",
+        "site:parts.subaru.com (\"30919AE822\" OR \"30919AE830\" OR \"30919AE832\" OR \"30919AE840\")",
+        "site:parts.subaru.com (\"30919AE841\" OR \"30919AE850\" OR \"30919AE851\" OR \"30919AE870\")",
+        "site:parts.subaru.com (\"30919AE871\" OR \"30919AE881\" OR \"30919AE882\" OR \"30919AE891\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AE892",
+        "30919AE901",
+        "30919AE902",
+        "30919AE911",
+        "30919AE912",
+        "30919AE981",
+        "30919AE982",
+        "30919AF030",
+        "30919AF032",
+        "30919AF040",
+        "30919AF042",
+        "30919AF050",
+        "30919AF051",
+        "30919AF060",
+        "30919AF061",
+        "30919AF070"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AE892\" OR \"30919AE901\" OR \"30919AE902\" OR \"30919AE911\")",
+        "site:parts.subaru.com (\"30919AE912\" OR \"30919AE981\" OR \"30919AE982\" OR \"30919AF030\")",
+        "site:parts.subaru.com (\"30919AF032\" OR \"30919AF040\" OR \"30919AF042\" OR \"30919AF050\")",
+        "site:parts.subaru.com (\"30919AF051\" OR \"30919AF060\" OR \"30919AF061\" OR \"30919AF070\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF071",
+        "30919AF080",
+        "30919AF081",
+        "30919AF12A",
+        "30919AF12B",
+        "30919AF130",
+        "30919AF132",
+        "30919AF140",
+        "30919AF142",
+        "30919AF150",
+        "30919AF151",
+        "30919AF20A",
+        "30919AF20B",
+        "30919AF210",
+        "30919AF212",
+        "30919AF220"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF071\" OR \"30919AF080\" OR \"30919AF081\" OR \"30919AF12A\")",
+        "site:parts.subaru.com (\"30919AF12B\" OR \"30919AF130\" OR \"30919AF132\" OR \"30919AF140\")",
+        "site:parts.subaru.com (\"30919AF142\" OR \"30919AF150\" OR \"30919AF151\" OR \"30919AF20A\")",
+        "site:parts.subaru.com (\"30919AF20B\" OR \"30919AF210\" OR \"30919AF212\" OR \"30919AF220\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF221",
+        "30919AF230",
+        "30919AF232",
+        "30919AF240",
+        "30919AF242",
+        "30919AF260",
+        "30919AF262",
+        "30919AF270",
+        "30919AF271",
+        "30919AF280",
+        "30919AF281",
+        "30919AF300",
+        "30919AF301",
+        "30919AF310",
+        "30919AF311",
+        "30919AF46A"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF221\" OR \"30919AF230\" OR \"30919AF232\" OR \"30919AF240\")",
+        "site:parts.subaru.com (\"30919AF242\" OR \"30919AF260\" OR \"30919AF262\" OR \"30919AF270\")",
+        "site:parts.subaru.com (\"30919AF271\" OR \"30919AF280\" OR \"30919AF281\" OR \"30919AF300\")",
+        "site:parts.subaru.com (\"30919AF301\" OR \"30919AF310\" OR \"30919AF311\" OR \"30919AF46A\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF46B",
+        "30919AF47A",
+        "30919AF47C",
+        "30919AF480",
+        "30919AF482",
+        "30919AF490",
+        "30919AF493",
+        "30919AF500",
+        "30919AF502",
+        "30919AF510",
+        "30919AF513",
+        "30919AF53A",
+        "30919AF53B",
+        "30919AF65A",
+        "30919AF65C",
+        "30919AF66A"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF46B\" OR \"30919AF47A\" OR \"30919AF47C\" OR \"30919AF480\")",
+        "site:parts.subaru.com (\"30919AF482\" OR \"30919AF490\" OR \"30919AF493\" OR \"30919AF500\")",
+        "site:parts.subaru.com (\"30919AF502\" OR \"30919AF510\" OR \"30919AF513\" OR \"30919AF53A\")",
+        "site:parts.subaru.com (\"30919AF53B\" OR \"30919AF65A\" OR \"30919AF65C\" OR \"30919AF66A\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF66C",
+        "30919AF670",
+        "30919AF671",
+        "30919AF680",
+        "30919AF681",
+        "30919AF690",
+        "30919AF691",
+        "30919AF700",
+        "30919AF701",
+        "30919AF71A",
+        "30919AF71B",
+        "30919AF72A",
+        "30919AF72B",
+        "30919AF760",
+        "30919AF761",
+        "30919AF770"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF66C\" OR \"30919AF670\" OR \"30919AF671\" OR \"30919AF680\")",
+        "site:parts.subaru.com (\"30919AF681\" OR \"30919AF690\" OR \"30919AF691\" OR \"30919AF700\")",
+        "site:parts.subaru.com (\"30919AF701\" OR \"30919AF71A\" OR \"30919AF71B\" OR \"30919AF72A\")",
+        "site:parts.subaru.com (\"30919AF72B\" OR \"30919AF760\" OR \"30919AF761\" OR \"30919AF770\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF771",
+        "30919AF800",
+        "30919AF801",
+        "30919AF830",
+        "30919AF832",
+        "30919AF840",
+        "30919AF842",
+        "30919AF850",
+        "30919AF851",
+        "30919AF860",
+        "30919AF861",
+        "30919AF900",
+        "30919AF901",
+        "30919AF930",
+        "30919AF931",
+        "30919AF960"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF771\" OR \"30919AF800\" OR \"30919AF801\" OR \"30919AF830\")",
+        "site:parts.subaru.com (\"30919AF832\" OR \"30919AF840\" OR \"30919AF842\" OR \"30919AF850\")",
+        "site:parts.subaru.com (\"30919AF851\" OR \"30919AF860\" OR \"30919AF861\" OR \"30919AF900\")",
+        "site:parts.subaru.com (\"30919AF901\" OR \"30919AF930\" OR \"30919AF931\" OR \"30919AF960\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AF961",
+        "30919AF98B",
+        "30919AF98C",
+        "30919AF99B",
+        "30919AF99C",
+        "30919AG***",
+        "30919AG022",
+        "30919AG032",
+        "30919AG040",
+        "30919AG041",
+        "30919AG050",
+        "30919AG051",
+        "30919AG060",
+        "30919AG061",
+        "30919AG070",
+        "30919AG071"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AF961\" OR \"30919AF98B\" OR \"30919AF98C\" OR \"30919AF99B\")",
+        "site:parts.subaru.com (\"30919AF99C\" OR \"30919AG***\" OR \"30919AG022\" OR \"30919AG032\")",
+        "site:parts.subaru.com (\"30919AG040\" OR \"30919AG041\" OR \"30919AG050\" OR \"30919AG051\")",
+        "site:parts.subaru.com (\"30919AG060\" OR \"30919AG061\" OR \"30919AG070\" OR \"30919AG071\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AG080",
+        "30919AG081",
+        "30919AG100",
+        "30919AG101",
+        "30919AG110",
+        "30919AG111",
+        "30919AG120",
+        "30919AG121",
+        "30919AG130",
+        "30919AG131",
+        "30919AG17*",
+        "30919AG172",
+        "30919AG23*",
+        "30919AG232",
+        "30919AG24*",
+        "30919AG242"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AG080\" OR \"30919AG081\" OR \"30919AG100\" OR \"30919AG101\")",
+        "site:parts.subaru.com (\"30919AG110\" OR \"30919AG111\" OR \"30919AG120\" OR \"30919AG121\")",
+        "site:parts.subaru.com (\"30919AG130\" OR \"30919AG131\" OR \"30919AG17*\" OR \"30919AG172\")",
+        "site:parts.subaru.com (\"30919AG23*\" OR \"30919AG232\" OR \"30919AG24*\" OR \"30919AG242\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AG31A",
+        "30919AG31C",
+        "30919AG32A",
+        "30919AG32C",
+        "30919AG330",
+        "30919AG331",
+        "30919AG340",
+        "30919AG341",
+        "30919AG350",
+        "30919AG351",
+        "30919AG360",
+        "30919AG361",
+        "30919AG370",
+        "30919AG371",
+        "30919AG450",
+        "30919AG460"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AG31A\" OR \"30919AG31C\" OR \"30919AG32A\" OR \"30919AG32C\")",
+        "site:parts.subaru.com (\"30919AG330\" OR \"30919AG331\" OR \"30919AG340\" OR \"30919AG341\")",
+        "site:parts.subaru.com (\"30919AG350\" OR \"30919AG351\" OR \"30919AG360\" OR \"30919AG361\")",
+        "site:parts.subaru.com (\"30919AG370\" OR \"30919AG371\" OR \"30919AG450\" OR \"30919AG460\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AG48*",
+        "30919AG483",
+        "30919AG49*",
+        "30919AG493",
+        "30919AG830",
+        "30919AG831",
+        "30919AG840",
+        "30919AG841",
+        "30919AG850",
+        "30919AG851",
+        "30919AG860",
+        "30919AG861",
+        "30919AG870",
+        "30919AG871",
+        "30919AG920",
+        "30919AG921"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AG48*\" OR \"30919AG483\" OR \"30919AG49*\" OR \"30919AG493\")",
+        "site:parts.subaru.com (\"30919AG830\" OR \"30919AG831\" OR \"30919AG840\" OR \"30919AG841\")",
+        "site:parts.subaru.com (\"30919AG850\" OR \"30919AG851\" OR \"30919AG860\" OR \"30919AG861\")",
+        "site:parts.subaru.com (\"30919AG870\" OR \"30919AG871\" OR \"30919AG920\" OR \"30919AG921\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AG930",
+        "30919AG931",
+        "30919AG940",
+        "30919AG941",
+        "30919AG950",
+        "30919AG951",
+        "30919AH080",
+        "30919AH081",
+        "30919AH100",
+        "30919AH101",
+        "30919AH110",
+        "30919AH111",
+        "30919AH120",
+        "30919AH121",
+        "30919AH19*",
+        "30919AH192"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AG930\" OR \"30919AG931\" OR \"30919AG940\" OR \"30919AG941\")",
+        "site:parts.subaru.com (\"30919AG950\" OR \"30919AG951\" OR \"30919AH080\" OR \"30919AH081\")",
+        "site:parts.subaru.com (\"30919AH100\" OR \"30919AH101\" OR \"30919AH110\" OR \"30919AH111\")",
+        "site:parts.subaru.com (\"30919AH120\" OR \"30919AH121\" OR \"30919AH19*\" OR \"30919AH192\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AH20*",
+        "30919AH202",
+        "30919AH55*",
+        "30919AH552",
+        "30919AH56*",
+        "30919AH562",
+        "30919AH58*",
+        "30919AH581",
+        "30919AH59*",
+        "30919AH592",
+        "30919AH60*",
+        "30919AH602",
+        "30919AH61*",
+        "30919AH612",
+        "30919AH820",
+        "30919AH821"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AH20*\" OR \"30919AH202\" OR \"30919AH55*\" OR \"30919AH552\")",
+        "site:parts.subaru.com (\"30919AH56*\" OR \"30919AH562\" OR \"30919AH58*\" OR \"30919AH581\")",
+        "site:parts.subaru.com (\"30919AH59*\" OR \"30919AH592\" OR \"30919AH60*\" OR \"30919AH602\")",
+        "site:parts.subaru.com (\"30919AH61*\" OR \"30919AH612\" OR \"30919AH820\" OR \"30919AH821\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "30919AJ46*",
+        "30919AJ461",
+        "30919JB110",
+        "30919JB111",
+        "31711AF90A",
+        "31711AF90C",
+        "31711AF91A",
+        "31711AF91C",
+        "31711AF92A",
+        "31711AF92C",
+        "31711AG140",
+        "31711AG142",
+        "31711AG33A",
+        "31711AG33C",
+        "31711AG35A",
+        "31711AG35C"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"30919AJ46*\" OR \"30919AJ461\" OR \"30919JB110\" OR \"30919JB111\")",
+        "site:parts.subaru.com (\"31711AF90A\" OR \"31711AF90C\" OR \"31711AF91A\" OR \"31711AF91C\")",
+        "site:parts.subaru.com (\"31711AF92A\" OR \"31711AF92C\" OR \"31711AG140\" OR \"31711AG142\")",
+        "site:parts.subaru.com (\"31711AG33A\" OR \"31711AG33C\" OR \"31711AG35A\" OR \"31711AG35C\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AG36A",
+        "31711AG36C",
+        "31711AG520",
+        "31711AG522",
+        "31711AG530",
+        "31711AG532",
+        "31711AG540",
+        "31711AG542",
+        "31711AG589",
+        "31711AG610",
+        "31711AG614",
+        "31711AG615",
+        "31711AG617",
+        "31711AG620",
+        "31711AG624",
+        "31711AG625"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AG36A\" OR \"31711AG36C\" OR \"31711AG520\" OR \"31711AG522\")",
+        "site:parts.subaru.com (\"31711AG530\" OR \"31711AG532\" OR \"31711AG540\" OR \"31711AG542\")",
+        "site:parts.subaru.com (\"31711AG589\" OR \"31711AG610\" OR \"31711AG614\" OR \"31711AG615\")",
+        "site:parts.subaru.com (\"31711AG617\" OR \"31711AG620\" OR \"31711AG624\" OR \"31711AG625\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AG630",
+        "31711AG634",
+        "31711AG635",
+        "31711AG637",
+        "31711AG800",
+        "31711AG802",
+        "31711AG810",
+        "31711AG812",
+        "31711AG820",
+        "31711AG824",
+        "31711AG825",
+        "31711AG827",
+        "31711AG830",
+        "31711AG831",
+        "31711AG850",
+        "31711AG851"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AG630\" OR \"31711AG634\" OR \"31711AG635\" OR \"31711AG637\")",
+        "site:parts.subaru.com (\"31711AG800\" OR \"31711AG802\" OR \"31711AG810\" OR \"31711AG812\")",
+        "site:parts.subaru.com (\"31711AG820\" OR \"31711AG824\" OR \"31711AG825\" OR \"31711AG827\")",
+        "site:parts.subaru.com (\"31711AG830\" OR \"31711AG831\" OR \"31711AG850\" OR \"31711AG851\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AG860",
+        "31711AG861",
+        "31711AG880",
+        "31711AG881",
+        "31711AG940",
+        "31711AG942",
+        "31711AH240",
+        "31711AH241",
+        "31711AH250",
+        "31711AH251",
+        "31711AH370",
+        "31711AH371",
+        "31711AH380",
+        "31711AH381",
+        "31711AH420",
+        "31711AH421"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AG860\" OR \"31711AG861\" OR \"31711AG880\" OR \"31711AG881\")",
+        "site:parts.subaru.com (\"31711AG940\" OR \"31711AG942\" OR \"31711AH240\" OR \"31711AH241\")",
+        "site:parts.subaru.com (\"31711AH250\" OR \"31711AH251\" OR \"31711AH370\" OR \"31711AH371\")",
+        "site:parts.subaru.com (\"31711AH380\" OR \"31711AH381\" OR \"31711AH420\" OR \"31711AH421\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AH440",
+        "31711AH441",
+        "31711AH500",
+        "31711AH501",
+        "31711AH51A",
+        "31711AH51B",
+        "31711AH540",
+        "31711AH541",
+        "31711AH580",
+        "31711AH584",
+        "31711AH585",
+        "31711AH587",
+        "31711AH590",
+        "31711AH594",
+        "31711AH595",
+        "31711AH597"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AH440\" OR \"31711AH441\" OR \"31711AH500\" OR \"31711AH501\")",
+        "site:parts.subaru.com (\"31711AH51A\" OR \"31711AH51B\" OR \"31711AH540\" OR \"31711AH541\")",
+        "site:parts.subaru.com (\"31711AH580\" OR \"31711AH584\" OR \"31711AH585\" OR \"31711AH587\")",
+        "site:parts.subaru.com (\"31711AH590\" OR \"31711AH594\" OR \"31711AH595\" OR \"31711AH597\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AH61A",
+        "31711AH61C",
+        "31711AH770",
+        "31711AH771",
+        "31711AH780",
+        "31711AH781",
+        "31711AH790",
+        "31711AH791",
+        "31711AH810",
+        "31711AH811",
+        "31711AH82A",
+        "31711AH82B",
+        "31711AH83A",
+        "31711AH83B",
+        "31711AJ000",
+        "31711AJ001"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AH61A\" OR \"31711AH61C\" OR \"31711AH770\" OR \"31711AH771\")",
+        "site:parts.subaru.com (\"31711AH780\" OR \"31711AH781\" OR \"31711AH790\" OR \"31711AH791\")",
+        "site:parts.subaru.com (\"31711AH810\" OR \"31711AH811\" OR \"31711AH82A\" OR \"31711AH82B\")",
+        "site:parts.subaru.com (\"31711AH83A\" OR \"31711AH83B\" OR \"31711AJ000\" OR \"31711AJ001\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AJ200",
+        "31711AJ202",
+        "31711AJ360",
+        "31711AJ361",
+        "31711AJ520",
+        "31711AJ521",
+        "31711AJ674",
+        "31711AJ675",
+        "31711AJ676",
+        "31711AJ730",
+        "31711AJ732",
+        "31711AJ734",
+        "31711AJ782",
+        "31711AJ810",
+        "31711AJ812",
+        "31711AJ814"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AJ200\" OR \"31711AJ202\" OR \"31711AJ360\" OR \"31711AJ361\")",
+        "site:parts.subaru.com (\"31711AJ520\" OR \"31711AJ521\" OR \"31711AJ674\" OR \"31711AJ675\")",
+        "site:parts.subaru.com (\"31711AJ676\" OR \"31711AJ730\" OR \"31711AJ732\" OR \"31711AJ734\")",
+        "site:parts.subaru.com (\"31711AJ782\" OR \"31711AJ810\" OR \"31711AJ812\" OR \"31711AJ814\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AJ820",
+        "31711AJ822",
+        "31711AJ824",
+        "31711AJ830",
+        "31711AJ832",
+        "31711AJ834",
+        "31711AJ840",
+        "31711AJ842",
+        "31711AJ844",
+        "31711AJ850",
+        "31711AJ852",
+        "31711AJ860",
+        "31711AJ862",
+        "31711AJ864",
+        "31711AK751",
+        "31711AK752"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AJ820\" OR \"31711AJ822\" OR \"31711AJ824\" OR \"31711AJ830\")",
+        "site:parts.subaru.com (\"31711AJ832\" OR \"31711AJ834\" OR \"31711AJ840\" OR \"31711AJ842\")",
+        "site:parts.subaru.com (\"31711AJ844\" OR \"31711AJ850\" OR \"31711AJ852\" OR \"31711AJ860\")",
+        "site:parts.subaru.com (\"31711AJ862\" OR \"31711AJ864\" OR \"31711AK751\" OR \"31711AK752\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AL170",
+        "31711AL172",
+        "31711AL180",
+        "31711AL182",
+        "31711AL190",
+        "31711AL192",
+        "31711AL290",
+        "31711AL310",
+        "31711AL320",
+        "31711AL330",
+        "31711AL500",
+        "31711AM110",
+        "31711AN100",
+        "31711AN101",
+        "31711AN110",
+        "31711AN111"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AL170\" OR \"31711AL172\" OR \"31711AL180\" OR \"31711AL182\")",
+        "site:parts.subaru.com (\"31711AL190\" OR \"31711AL192\" OR \"31711AL290\" OR \"31711AL310\")",
+        "site:parts.subaru.com (\"31711AL320\" OR \"31711AL330\" OR \"31711AL500\" OR \"31711AM110\")",
+        "site:parts.subaru.com (\"31711AN100\" OR \"31711AN101\" OR \"31711AN110\" OR \"31711AN111\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AN120",
+        "31711AN121",
+        "31711AN130",
+        "31711AN131",
+        "31711AN140",
+        "31711AN141",
+        "31711AN150",
+        "31711AN151",
+        "31711AN170",
+        "31711AN171",
+        "31711AN180",
+        "31711AN181",
+        "31711AN270",
+        "31711AN271",
+        "31711AN280",
+        "31711AN281"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AN120\" OR \"31711AN121\" OR \"31711AN130\" OR \"31711AN131\")",
+        "site:parts.subaru.com (\"31711AN140\" OR \"31711AN141\" OR \"31711AN150\" OR \"31711AN151\")",
+        "site:parts.subaru.com (\"31711AN170\" OR \"31711AN171\" OR \"31711AN180\" OR \"31711AN181\")",
+        "site:parts.subaru.com (\"31711AN270\" OR \"31711AN271\" OR \"31711AN280\" OR \"31711AN281\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    },
+    {
+      "parts": [
+        "31711AN290",
+        "31711AN291",
+        "31711AN300",
+        "31711AN301"
+      ],
+      "queries": [
+        "site:parts.subaru.com (\"31711AN290\" OR \"31711AN291\" OR \"31711AN300\" OR \"31711AN301\")"
+      ],
+      "no_results": true,
+      "urls": [],
+      "response_length": 67
+    }
+  ]
+}
