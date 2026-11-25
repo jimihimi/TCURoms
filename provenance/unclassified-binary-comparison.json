@@ -1,0 +1,1157 @@
+{
+  "method": "unique 64-byte windows every 16 bytes, excluding windows with fewer than 12 distinct byte values; overlap is supporting evidence only",
+  "results": [
+    {
+      "candidate": "Unclassified/North-America/Forester/2011_Forester__99F2607000__30919AB431__dc01ed9b9f1c__update-payload.bin",
+      "sha256": "dc01ed9b9f1c01bf16d131b2d1866d0ea7525fff9ece4b316f70f024f9ee3680",
+      "distinctive_blocks": 27119,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "04bbb7135c049779c359cc18b3f6f37204f5515ec8bbe22190ddc4744e9babfb",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99A2607000__Multiple-Parts__04bbb7135c04__update-payload.bin",
+          "shared_blocks": 23197,
+          "candidate_fraction": 0.8554
+        },
+        {
+          "family": "4EAT",
+          "sha256": "d9c6794438d198af2087aa931231fe2dfd2c7ddfd8d42e3d4daf67a125772cc9",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99E5607000__Multiple-Parts__d9c6794438d1__update-payload.bin",
+          "shared_blocks": 15647,
+          "candidate_fraction": 0.577
+        },
+        {
+          "family": "4EAT",
+          "sha256": "2cdf3265c5b396ed9bc13c9c32dd7489b1631625a172094279926fa4af80f6e6",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99B5607000__Multiple-Parts__2cdf3265c5b3__update-payload.bin",
+          "shared_blocks": 15647,
+          "candidate_fraction": 0.577
+        },
+        {
+          "family": "4EAT",
+          "sha256": "9091d76e2459978f77cb3f2c5a6d89d5c8699f1ba909c8fc5b5bf16c50832fbf",
+          "path": "4EAT/Europe-General/Impreza/2011_Impreza__D5B5607000__Multiple-Parts__9091d76e2459__update-payload.bin",
+          "shared_blocks": 9321,
+          "candidate_fraction": 0.3437
+        },
+        {
+          "family": "4EAT",
+          "sha256": "c915d47230bd572b1d05ce8c78b6d4094c81ef689a0b614db8a2a6904b490d4a",
+          "path": "4EAT/Europe-General/Impreza/2011_Impreza__D5A5607000__Multiple-Parts__c915d47230bd__update-payload.bin",
+          "shared_blocks": 9321,
+          "candidate_fraction": 0.3437
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "04bbb7135c049779c359cc18b3f6f37204f5515ec8bbe22190ddc4744e9babfb",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99A2607000__Multiple-Parts__04bbb7135c04__update-payload.bin",
+          "shared_blocks": 23197,
+          "candidate_fraction": 0.8554
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "53a311521be77115535b5a9e8aec1a09e3fffe79aeafb88304fe4baa52ad439a",
+          "path": "5EAT/Europe-General/Legacy/2010_Legacy__B1AE207100__No-Part-Number__53a311521be7__shared-image.bin",
+          "shared_blocks": 62,
+          "candidate_fraction": 0.0023
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 3,
+          "candidate_fraction": 0.0001
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Forester/2011_Forester__99FE607000__30919AB891__4cb930f44b36__update-payload.bin",
+      "sha256": "4cb930f44b3689cf9b7a11edbace3f9d880c0485aaeab21cee3535ce68cb9b1c",
+      "distinctive_blocks": 27084,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "3aae536f963ef33b47e9366925cf32b24ec0f0b3d8fdc43f303cc5f3228e0758",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99EE607000__Multiple-Parts__3aae536f963e__update-payload.bin",
+          "shared_blocks": 8047,
+          "candidate_fraction": 0.2971
+        },
+        {
+          "family": "4EAT",
+          "sha256": "d9c6794438d198af2087aa931231fe2dfd2c7ddfd8d42e3d4daf67a125772cc9",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99E5607000__Multiple-Parts__d9c6794438d1__update-payload.bin",
+          "shared_blocks": 6381,
+          "candidate_fraction": 0.2356
+        },
+        {
+          "family": "4EAT",
+          "sha256": "2cdf3265c5b396ed9bc13c9c32dd7489b1631625a172094279926fa4af80f6e6",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99B5607000__Multiple-Parts__2cdf3265c5b3__update-payload.bin",
+          "shared_blocks": 6381,
+          "candidate_fraction": 0.2356
+        },
+        {
+          "family": "4EAT",
+          "sha256": "04bbb7135c049779c359cc18b3f6f37204f5515ec8bbe22190ddc4744e9babfb",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99A2607000__Multiple-Parts__04bbb7135c04__update-payload.bin",
+          "shared_blocks": 6346,
+          "candidate_fraction": 0.2343
+        },
+        {
+          "family": "4EAT",
+          "sha256": "9091d76e2459978f77cb3f2c5a6d89d5c8699f1ba909c8fc5b5bf16c50832fbf",
+          "path": "4EAT/Europe-General/Impreza/2011_Impreza__D5B5607000__Multiple-Parts__9091d76e2459__update-payload.bin",
+          "shared_blocks": 2424,
+          "candidate_fraction": 0.0895
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "3aae536f963ef33b47e9366925cf32b24ec0f0b3d8fdc43f303cc5f3228e0758",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99EE607000__Multiple-Parts__3aae536f963e__update-payload.bin",
+          "shared_blocks": 8047,
+          "candidate_fraction": 0.2971
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "53a311521be77115535b5a9e8aec1a09e3fffe79aeafb88304fe4baa52ad439a",
+          "path": "5EAT/Europe-General/Legacy/2010_Legacy__B1AE207100__No-Part-Number__53a311521be7__shared-image.bin",
+          "shared_blocks": 62,
+          "candidate_fraction": 0.0023
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 3,
+          "candidate_fraction": 0.0001
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Impreza/2004_Impreza__8650430000__31711AH251__5fa1f753c634__update-payload.bin",
+      "sha256": "5fa1f753c634ffa927aaad797b4af76d440d8274cb045137e97b7f55d1ede407",
+      "distinctive_blocks": 4731,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 893,
+          "candidate_fraction": 0.1888
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 887,
+          "candidate_fraction": 0.1875
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 893,
+          "candidate_fraction": 0.1888
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Impreza/2003-2004_Impreza__8650E40000__Multiple-Parts__3e0b57a7b07d__update-payload.bin",
+      "sha256": "3e0b57a7b07d31dcaf31dde53071243f486ce12c661ba54f875a1e225e29ba76",
+      "distinctive_blocks": 4765,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 657,
+          "candidate_fraction": 0.1379
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 651,
+          "candidate_fraction": 0.1366
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 657,
+          "candidate_fraction": 0.1379
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2003_Legacy__8460440000__31711AG35C__8dbefa240e1c__update-payload.bin",
+      "sha256": "8dbefa240e1c109ae4d47d7308838914a1ad45d011524f243df5211da25d2ae5",
+      "distinctive_blocks": 4679,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 355,
+          "candidate_fraction": 0.0759
+        },
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 355,
+          "candidate_fraction": 0.0759
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 355,
+          "candidate_fraction": 0.0759
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Baja-Outback/2003_Baja-Outback__8460340000__Multiple-Parts__d6fa84d1e504__update-payload.bin",
+      "sha256": "d6fa84d1e504afcdec9f82a381ba21ef10d3ae423b1fd5cd4e6354e5b10f590c",
+      "distinctive_blocks": 4670,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 354,
+          "candidate_fraction": 0.0758
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 348,
+          "candidate_fraction": 0.0745
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 354,
+          "candidate_fraction": 0.0758
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2003_Legacy__8460130000__31711AG33C__c11f70e7cc96__update-payload.bin",
+      "sha256": "c11f70e7cc963cbc12461e4a8151ce6b95050ec59edfa5443d72d96b8e114bb5",
+      "distinctive_blocks": 4709,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 356,
+          "candidate_fraction": 0.0756
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 350,
+          "candidate_fraction": 0.0743
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 356,
+          "candidate_fraction": 0.0756
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2004_Legacy__8470440000__31711AH61C__5db369c92ac2__update-payload.bin",
+      "sha256": "5db369c92ac29066bb0f15f5981078cce13e494e7c2f3a31acb9f25cc6c35caa",
+      "distinctive_blocks": 4760,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 1457,
+          "candidate_fraction": 0.3061
+        },
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 1455,
+          "candidate_fraction": 0.3057
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 1457,
+          "candidate_fraction": 0.3061
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Outback/2004_Outback__8470340000__31711AH83B__028c034ed8b0__update-payload.bin",
+      "sha256": "028c034ed8b0e81bf4b0d398fc2b2ed3779dbc4cb122d738370f47ffaaa21aea",
+      "distinctive_blocks": 4754,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 1621,
+          "candidate_fraction": 0.341
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 1599,
+          "candidate_fraction": 0.3363
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 1621,
+          "candidate_fraction": 0.341
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2004_Legacy__8470140000__31711AH82B__d4c769828809__update-payload.bin",
+      "sha256": "d4c769828809c3e7c914afc394a674ec80612b6a4dd09c711931dfd99cbddbf7",
+      "distinctive_blocks": 4793,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 1494,
+          "candidate_fraction": 0.3117
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 1474,
+          "candidate_fraction": 0.3075
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 1494,
+          "candidate_fraction": 0.3117
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2002_Legacy__8450220000__31711AF91C__784f302b3200__update-payload.bin",
+      "sha256": "784f302b32004e98c9bb7fd27faa0f9324f0d3e6d3487071f7ab59f324039c79",
+      "distinctive_blocks": 5003,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0748
+        },
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0748
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0748
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Outback/2002_Outback__8450320000__31711AF92C__0dfbf33aa2c6__update-payload.bin",
+      "sha256": "0dfbf33aa2c64a0a3ba9fcc727dfd4b13786d93a0ee052586c20282c98beacc5",
+      "distinctive_blocks": 5007,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0747
+        },
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0747
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.0747
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Legacy/2002_Legacy__8450120000__31711AF90C__83e9bfa7c6ba__update-payload.bin",
+      "sha256": "83e9bfa7c6ba665387aca738e59f01e8c0ee85edfc3ad90d14fe3b94c44bfa68",
+      "distinctive_blocks": 5055,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.074
+        },
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.074
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 374,
+          "candidate_fraction": 0.074
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Forester/2004_Forester__8560520000__31711AH371__2e01310cd898__update-payload.bin",
+      "sha256": "2e01310cd89814cf596168c58c25574d51fdb9447ce5f69c37c9e736113a2c97",
+      "distinctive_blocks": 4753,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 2919,
+          "candidate_fraction": 0.6141
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 2883,
+          "candidate_fraction": 0.6066
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 2919,
+          "candidate_fraction": 0.6141
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Forester/2003_Forester__8550530000__31711AG142__42ebc0220088__update-payload.bin",
+      "sha256": "42ebc02200889106a9781aad51a9c64becca28568e4b3790a3180ebee00575dc",
+      "distinctive_blocks": 4662,
+      "top_references": [
+        {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 420,
+          "candidate_fraction": 0.0901
+        },
+        {
+          "family": "4EAT",
+          "sha256": "96b269fddda3770d42683955f1bce4ac48fc321db8c9043de562ffff17cff5b3",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360760000__31711AG942__96b269fddda3__update-payload.bin",
+          "shared_blocks": 414,
+          "candidate_fraction": 0.0888
+        },
+        {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "d583f8076d504f099837c5b913f34eb5e2049a9e300362ba809e0ba3f71a9439",
+          "path": "5EAT/Europe-General/Unknown-Model/Unknown-Year_Unknown-Model__91A0217400__No-Part-Number__d583f8076d50__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        {
+          "family": "5EAT",
+          "sha256": "acf7381752d8b8f6e42d4f0c433e65d87225344d88ea0d3c0b5b293b6fee4ed0",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A1207300__31711AG624__acf7381752d8__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "fd8b51f0911d9cea40bdfddeb8d5aea4b3712bf8eae9003242c3ca88d4cdd9b4",
+          "path": "4EAT/Europe-General/Legacy/2003_Legacy__8360930000__31711AH811__fd8b51f0911d__update-payload.bin",
+          "shared_blocks": 420,
+          "candidate_fraction": 0.0901
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "1beac552ca74e3487e1e8cfa6a98ca6a1b26e7fe96e6dc6591b88ddcc0cafb6a",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91A0217300__31711AG634__1beac552ca74__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "c9d32baa6d2f00726d11a96b8894a484101a95ee5b04413b381a3bdd99f967a0",
+          "path": "CVT/Japan/Unknown-Model/Unknown-Year_Unknown-Model__B1D3F08000__No-Part-Number__c9d32baa6d2f__shared-image.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    },
+    {
+      "candidate": "Unclassified/North-America/Outback/2005_Outback__91FE217100__31711AJ202__858df8729a5a__update-payload.bin",
+      "sha256": "858df8729a5ad7cfc54521be55ec870ee7608507df2d59372b78fab9afacaf7e",
+      "distinctive_blocks": 18772,
+      "top_references": [
+        {
+          "family": "5EAT",
+          "sha256": "e6dc2e07865c145e89bb6c92fdda4e2658f00756c9e08073edc1fb37477cc567",
+          "path": "5EAT/North-America/Legacy/2005_Legacy__91FE207100__31711AG802__e6dc2e07865c__shared-image.bin",
+          "shared_blocks": 18707,
+          "candidate_fraction": 0.9965
+        },
+        {
+          "family": "5EAT",
+          "sha256": "c9922140432dedf927ee4ec09a61f9fcb74f01ebf0771f593f273e4d12e319d8",
+          "path": "5EAT/North-America/Outback/2005_Outback__91F0217100__31711AG812__c9922140432d__shared-image.bin",
+          "shared_blocks": 12930,
+          "candidate_fraction": 0.6888
+        },
+        {
+          "family": "5EAT",
+          "sha256": "4d52fa6ba7d5c9209845bc313b25e2bced98ac5ccfafff59d303a139b58f183c",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91E0207400__31711AH595__4d52fa6ba7d5__update-payload.bin",
+          "shared_blocks": 12438,
+          "candidate_fraction": 0.6626
+        },
+        {
+          "family": "5EAT",
+          "sha256": "cb6f52e1d6952e76c7dead3e53b94331777d7dd48a2f4438ae0d31ecf876031f",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91E0217400__31711AG825__cb6f52e1d695__update-payload.bin",
+          "shared_blocks": 12438,
+          "candidate_fraction": 0.6626
+        },
+        {
+          "family": "5EAT",
+          "sha256": "2184c9b6c995ef81b7a3beec289f7aadf7f065c5d9b15886862ae6cd8395844e",
+          "path": "5EAT/Europe-General/Legacy/2004_Legacy__91E0207400__31711AH585__2184c9b6c995__update-payload.bin",
+          "shared_blocks": 12438,
+          "candidate_fraction": 0.6626
+        }
+      ],
+      "best_by_family": {
+        "4EAT": {
+          "family": "4EAT",
+          "sha256": "d9c6794438d198af2087aa931231fe2dfd2c7ddfd8d42e3d4daf67a125772cc9",
+          "path": "4EAT/Europe-General/Forester/2011_Forester__99E5607000__Multiple-Parts__d9c6794438d1__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        },
+        "5EAT": {
+          "family": "5EAT",
+          "sha256": "e6dc2e07865c145e89bb6c92fdda4e2658f00756c9e08073edc1fb37477cc567",
+          "path": "5EAT/North-America/Legacy/2005_Legacy__91FE207100__31711AG802__e6dc2e07865c__shared-image.bin",
+          "shared_blocks": 18707,
+          "candidate_fraction": 0.9965
+        },
+        "CVT": {
+          "family": "CVT",
+          "sha256": "354d96e02b423034c5a453eba85390d54658374c16703af9a00ee54115a1ebb7",
+          "path": "CVT/Europe-General/Legacy-Outback/2013_Legacy-Outback__B6EFB98200__30919AD102__354d96e02b42__update-payload.bin",
+          "shared_blocks": 57,
+          "candidate_fraction": 0.003
+        },
+        "6AT": {
+          "family": "6AT",
+          "sha256": "f0ff9919ca671e0580114170019961455e3aacf838b408b521a75fbc728dd73e",
+          "path": "6AT/North-America/BRZ/2015-2016_BRZ__F2F5DC7000__30919JB111__f0ff9919ca67__update-payload.bin",
+          "shared_blocks": 0,
+          "candidate_fraction": 0.0
+        }
+      }
+    }
+  ]
+}

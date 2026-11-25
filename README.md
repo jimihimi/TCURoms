@@ -5,7 +5,7 @@ Images are grouped by transmission family, documented market applicability, and 
 ## Layout
 
 - `4EAT/`, `5EAT/`, `6AT/`, `CVT/`: family supported by package descriptions or existing shared-image provenance.
-- `Unclassified/`: transmission family cannot be assigned from those descriptions.
+- `Unclassified/`: reserved for images whose transmission family remains unresolved; none remain after the 2026-11-25 binary-comparison review.
 - Markets: `North-America`, `Europe-General`, `Australia`, `Japan`, or `Unknown`.
 - `Unknown-Model` preserves missing applicability; other model directories use the evidenced model names, joined when an image has more than one application.
 - `Review/Cross-ROM-Supported/`: recovered images with cross-ROM key support; advertised release identity remains unverified.
@@ -36,6 +36,16 @@ Fallback searches used SubaruParts.com (Tacoma Subaru), Subaru Online Parts, and
 
 Hardware fitment is supplemental metadata (`hardware_fitment_json`), never a reason to broaden firmware applicability. Model/year filenames use the selected SSM package/part records, explicit package headers, or documented donor statements. Package-only matches are labeled as such and are weaker than exact part matches. Original database row references, models, years, and transmissions remain in `provenance/market-database-evidence.csv`. Existing images with no matching part or donor evidence retain unknown labels.
 
-All 289 binaries and 309 source rows are retained. The enrichment resolved 14 previously unknown model classifications; 284 binaries have model/year labels and five remain unknown. SHA-256 values and firmware evidence statuses are unchanged. `provenance/fitment-renames.csv` maps every old path to its new path; `provenance/fitment-enrichment-summary.json` records counts and input hashes.
+At the time of the fitment enrichment, all 289 binaries and 309 source rows were retained. That pass resolved 14 previously unknown model classifications; 284 binaries had model/year labels and five remained unknown. The later CVT addition brings the current catalog to 293 binaries and 313 source rows. SHA-256 values and firmware evidence statuses are unchanged. `provenance/fitment-renames.csv` maps the original paths to their current locations; `provenance/fitment-enrichment-summary.json` records historical counts and input hashes.
 
 Reproduce the plan with `python tools/enrich_fitment.py`; add `--apply` to write it. The script uses the pinned pre-enrichment catalog from Git history and checked-in evidence, so it does not depend on live parts websites. Run regression checks with `python -m unittest discover -s tools -p test_enrich_fitment.py`. Firmware checksums, processor assignments, and physical flash maps are outside this metadata pass.
+
+## Gear-family review of formerly unclassified images
+
+The 2026-11-25 review moved 15 distinct images to `4EAT` and one to `5EAT`.
+It compared distinctive 64-byte ROM windows against classified images and
+checked exact-part transmission listings where available. No CVT image was
+found in this group. [Methods and limits](provenance/unclassified-gear-classification.md)
+and [per-image evidence](provenance/unclassified-gear-classification.csv) are
+checked in. The catalog and fitment rename map now point to the new locations;
+the prior import and enrichment reports remain historical snapshots.
