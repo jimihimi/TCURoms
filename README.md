@@ -8,8 +8,6 @@ Images are grouped by transmission family, documented market applicability, and 
 - `Unclassified/`: reserved for images whose transmission family remains unresolved; none remain after the 2026-11-25 binary-comparison review.
 - Markets: `North-America`, `Europe-General`, `Australia`, `Japan`, or `Unknown`.
 - `Unknown-Model` preserves missing applicability; other model directories use the evidenced model names, joined when an image has more than one application.
-- `Review/Cross-ROM-Supported/`: recovered images with cross-ROM key support; advertised release identity remains unverified.
-- `Review/Identity-Mismatch/`: the user-accepted E65F33BJ / embedded E62F33BJ naming discrepancy.
 - `provenance/`: original repository manifest, database record references, and research qualifications.
 
 ## Files and identity
@@ -25,6 +23,8 @@ Year/model labels summarize the union of applicability records for identical byt
 ## Evidence boundaries
 
 Identity support and cross-ROM key support are distinct from verified processor assignments, physical load addresses, flash capacity, firmware checksums, or suitability for a vehicle. Header download addresses and logical layouts are retained as metadata only. Family folders describe transmission type, not MCU architecture. Package-only applicability is explicitly marked and is weaker than a package-and-part match. Existing market labels remain inherited provenance where stronger evidence is unavailable.
+
+The 18 cross-ROM-supported images now live in their transmission-family folders (17 `CVT`, one `5EAT`). Their catalog `evidence_status` remains `CROSS_ROM_KEY_SUPPORTED_CHECKSUM_UNVERIFIED`; their advertised release identities and firmware checksums have not been verified. [The relocation map](provenance/cross-rom-relocation.csv) records old and new paths with unchanged SHA-256 values. The user-accepted E65F33BJ / embedded E62F33BJ identity mismatch remains recorded in the catalog's evidence status, within its `4EAT` folder.
 
 Original `main` files were backed up and verified against their Git blob hashes before reorganization. `provenance/backup-manifest.csv` records their paths and SHA-256 values. `provenance/reorganization.json` records the base commit and counts. This collection is for offline research; it does not establish that any image is suitable for flashing.
 
